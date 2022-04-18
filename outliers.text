@@ -1,0 +1,864 @@
+outliers for 0-1(hr) 
+                         Facility.Name       lati       longi  Capacity  \
+30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
+38                        Cabezon Wind  26.562100  -98.738400     237.6   
+43                Canadian Breaks Wind  35.405000 -102.602900     210.0   
+64                Desert Sky Wind Farm  30.926700 -102.100000     210.0   
+99                     Gusty Hill Wind  31.447200 -104.517300     350.0   
+114            Indian Mesa Wind Farm I  30.920300 -102.116000     108.0   
+116                       JD Wind Farm  36.142555 -101.736364     235.0   
+123                      King Mountain  31.292200 -102.202000     373.0   
+131                     Las Lomas Wind  26.562100  -98.738400     200.0   
+156                  Mesteno Windpower  26.562100  -98.738400     201.6   
+176          Pantex Plant Wind Project  35.307800 -101.535000      15.0   
+217                           Sherbino  30.913200 -102.206000     392.0   
+221           Southwest Mesa Wind Farm  30.933300 -102.154000      98.0   
+222                      Spinning Spur  35.297567 -102.530333     674.0   
+256                      Wildrose Wind  34.530400 -101.735000     302.5   
+259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
+
+     NumberOfUnits     Group    Region         std     error  
+30              36  Existing     North   16.411917 -0.094817  
+38             102  Proposed     South   44.644878  0.217777  
+43              92  Proposed     North   41.786995 -0.122020  
+64             107  Existing  Far West   37.300331  0.198245  
+99             146  Proposed  Far West   68.604978 -0.074027  
+114            125  Existing  Far West   18.190402  0.194878  
+116            118  Existing     North   40.044142 -0.056519  
+123            219  Existing  Far West   63.319926  0.187747  
+131             88  Proposed     South   37.084584  0.218050  
+156             88  Proposed     South   37.024552  0.216043  
+176              5  Existing     North    2.510441 -0.057961  
+217            110  Existing  Far West   67.671127  0.187134  
+221            107  Existing  Far West   17.303528  0.195878  
+222            254  Existing     North  106.781260 -0.048904  
+256            128  Proposed     North   60.437500 -0.054379  
+259            109  Existing  Far West    7.251509 -0.078827  
+outliers for 1-2(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+12                       Barranca Wind  27.0008  -99.1686     201.6   
+13                    Barranca Wind II  27.0008  -99.1686     201.6   
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+38                        Cabezon Wind  26.5621  -98.7384     237.6   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+131                     Las Lomas Wind  26.5621  -98.7384     200.0   
+156                  Mesteno Windpower  26.5621  -98.7384     201.6   
+176          Pantex Plant Wind Project  35.3078 -101.5350      15.0   
+199                 Reloj Del Sol Wind  27.0008  -99.1686     202.0   
+243                     Vaquero 1 Wind  27.0008  -99.1686     400.0   
+244                     Vaquero 2 Wind  27.0008  -99.1686     201.6   
+250               West Texas Windplant  31.7586 -104.7420      50.0   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group    Region        std     error  
+12              88  Proposed     South  32.095985  0.252554  
+13              88  Proposed     South  32.449884  0.252717  
+30              36  Existing     North  16.411917 -0.115861  
+38             102  Proposed     South  44.644878  0.274707  
+43              92  Proposed     North  41.786995 -0.137808  
+62              38  Existing  Far West   5.389931 -0.086378  
+63              12  Proposed  Far West   1.935792 -0.137516  
+99             146  Proposed  Far West  68.604978 -0.128828  
+131             88  Proposed     South  37.084584  0.276292  
+156             88  Proposed     South  37.024552  0.275013  
+176              5  Existing     North   2.510441 -0.082758  
+199             89  Proposed     South  32.045674  0.252978  
+243            166  Proposed     South  63.275395  0.252426  
+244             88  Proposed     South  32.241914  0.252038  
+250            110  Existing  Far West   7.449225 -0.062333  
+259            109  Existing  Far West   7.251509 -0.126542  
+outliers for 2-3(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+12                       Barranca Wind  27.0008  -99.1686     201.6   
+13                    Barranca Wind II  27.0008  -99.1686     201.6   
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+38                        Cabezon Wind  26.5621  -98.7384     237.6   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+131                     Las Lomas Wind  26.5621  -98.7384     200.0   
+156                  Mesteno Windpower  26.5621  -98.7384     201.6   
+176          Pantex Plant Wind Project  35.3078 -101.5350      15.0   
+199                 Reloj Del Sol Wind  27.0008  -99.1686     202.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+250               West Texas Windplant  31.7586 -104.7420      50.0   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group    Region        std     error  
+12              88  Proposed     South  32.095985  0.273667  
+13              88  Proposed     South  32.449884  0.275082  
+30              36  Existing     North  16.411917 -0.123271  
+38             102  Proposed     South  44.644878  0.274275  
+43              92  Proposed     North  41.786995 -0.135171  
+62              38  Existing  Far West   5.389931 -0.110664  
+63              12  Proposed  Far West   1.935792 -0.192077  
+99             146  Proposed  Far West  68.604978 -0.153308  
+111             27  Proposed      West   8.819712  0.275795  
+131             88  Proposed     South  37.084584  0.276043  
+156             88  Proposed     South  37.024552  0.275021  
+176              5  Existing     North   2.510441 -0.084601  
+199             89  Proposed     South  32.045674  0.273756  
+236            127  Proposed      West  59.981183  0.276488  
+250            110  Existing  Far West   7.449225 -0.081604  
+259            109  Existing  Far West   7.251509 -0.147642  
+outliers for 3-4(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+11                    Baird North Wind  32.2977  -99.3735    293.55   
+30             Broadview Energy JN LLC  34.8014 -102.9960    108.00   
+39                   Cactus Flats Wind  31.3265  -99.8640    148.40   
+43                Canadian Breaks Wind  35.4050 -102.6029    210.00   
+51                    Century Oak Wind  32.2977  -99.3735    126.00   
+62         Delaware Mountain Wind Farm  31.6708 -104.7390     37.00   
+63                  Desert Sky repower  30.7811 -102.7236      7.20   
+99                     Gusty Hill Wind  31.4472 -104.5173    350.00   
+111              Horse13 CallD repower  32.3015  -99.8901     44.00   
+118                  Kaiser Creek Wind  32.2977  -99.3735    100.00   
+152                   Maverick Creek I  31.3265  -99.8640    268.50   
+153                  Maverick Creek II  31.3265  -99.8640    255.90   
+176          Pantex Plant Wind Project  35.3078 -101.5350     15.00   
+236                         Tiger Wind  32.3016  -99.8902    300.00   
+250               West Texas Windplant  31.7586 -104.7420     50.00   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430     52.00   
+
+     NumberOfUnits     Group         Region        std     error  
+11             124  Proposed  North Central  56.467627  0.288346  
+30              36  Existing          North  16.411917 -0.125029  
+39              68  Proposed           West  23.918846  0.287175  
+43              92  Proposed          North  41.786995 -0.136445  
+51              59  Proposed  North Central  24.464133  0.289934  
+62              38  Existing       Far West   5.389931 -0.121519  
+63              12  Proposed       Far West   1.935792 -0.232367  
+99             146  Proposed       Far West  68.604978 -0.162828  
+111             27  Proposed           West   8.819712  0.300352  
+118             49  Proposed  North Central  19.024801  0.289612  
+152            115  Proposed           West  43.120425  0.289580  
+153            110  Proposed           West  40.403016  0.289229  
+176              5  Existing          North   2.510441 -0.073315  
+236            127  Proposed           West  59.981183  0.302386  
+250            110  Existing       Far West   7.449225 -0.087637  
+259            109  Existing       Far West   7.251509 -0.154605  
+outliers for 4-5(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+39                   Cactus Flats Wind  31.3265  -99.8640     148.4   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+51                    Century Oak Wind  32.2977  -99.3735     126.0   
+62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+118                  Kaiser Creek Wind  32.2977  -99.3735     100.0   
+152                   Maverick Creek I  31.3265  -99.8640     268.5   
+153                  Maverick Creek II  31.3265  -99.8640     255.9   
+171                         Oveja Wind  31.3039 -100.9824     300.0   
+176          Pantex Plant Wind Project  35.3078 -101.5350      15.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+250               West Texas Windplant  31.7586 -104.7420      50.0   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group         Region        std     error  
+30              36  Existing          North  16.411917 -0.127952  
+39              68  Proposed           West  23.918846  0.294129  
+43              92  Proposed          North  41.786995 -0.143992  
+51              59  Proposed  North Central  24.464133  0.289011  
+62              38  Existing       Far West   5.389931 -0.127996  
+63              12  Proposed       Far West   1.935792 -0.270763  
+99             146  Proposed       Far West  68.604978 -0.173134  
+111             27  Proposed           West   8.819712  0.309167  
+118             49  Proposed  North Central  19.024801  0.287951  
+152            115  Proposed           West  43.120425  0.294431  
+153            110  Proposed           West  40.403016  0.292253  
+171            127  Proposed       Far West  51.688384  0.287192  
+176              5  Existing          North   2.510441 -0.064975  
+236            127  Proposed           West  59.981183  0.308427  
+250            110  Existing       Far West   7.449225 -0.091255  
+259            109  Existing       Far West   7.251509 -0.161127  
+outliers for 5-6(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+7                       Armstrong Wind  34.9649 -101.3574     253.0   
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+39                   Cactus Flats Wind  31.3265  -99.8640     148.4   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+51                    Century Oak Wind  32.2977  -99.3735     126.0   
+62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+86                      Goodnight Wind  34.9649 -101.3574     504.4   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+152                   Maverick Creek I  31.3265  -99.8640     268.5   
+153                  Maverick Creek II  31.3265  -99.8640     255.9   
+171                         Oveja Wind  31.3039 -100.9824     300.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+258                       Wilson Ranch  30.8975 -100.5385     199.5   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group         Region         std     error  
+7              108  Proposed          North   57.205436 -0.096264  
+30              36  Existing          North   16.411917 -0.137879  
+39              68  Proposed           West   23.918846  0.283441  
+43              92  Proposed          North   41.786995 -0.163644  
+51              59  Proposed  North Central   24.464133  0.274537  
+62              38  Existing       Far West    5.389931 -0.127895  
+63              12  Proposed       Far West    1.935792 -0.307586  
+86             207  Proposed          North  115.660475 -0.095607  
+99             146  Proposed       Far West   68.604978 -0.176727  
+111             27  Proposed           West    8.819712  0.300521  
+152            115  Proposed           West   43.120425  0.282281  
+153            110  Proposed           West   40.403016  0.281891  
+171            127  Proposed       Far West   51.688384  0.274526  
+236            127  Proposed           West   59.981183  0.300165  
+258             88  Proposed       Far West   33.411209  0.275121  
+259            109  Existing       Far West    7.251509 -0.163470  
+outliers for 6-7(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+7                       Armstrong Wind  34.9649 -101.3574     253.0   
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+39                   Cactus Flats Wind  31.3265  -99.8640     148.4   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+61                           Darmstadt  30.8975 -100.5385     200.9   
+62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+86                      Goodnight Wind  34.9649 -101.3574     504.4   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+152                   Maverick Creek I  31.3265  -99.8640     268.5   
+153                  Maverick Creek II  31.3265  -99.8640     255.9   
+171                         Oveja Wind  31.3039 -100.9824     300.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+258                       Wilson Ranch  30.8975 -100.5385     199.5   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group    Region         std     error  
+7              108  Proposed     North   57.205436 -0.125335  
+30              36  Existing     North   16.411917 -0.154449  
+39              68  Proposed      West   23.918846  0.261059  
+43              92  Proposed     North   41.786995 -0.202914  
+61              88  Proposed  Far West   33.079903  0.257322  
+62              38  Existing  Far West    5.389931 -0.124582  
+63              12  Proposed  Far West    1.935792 -0.341602  
+86             207  Proposed     North  115.660475 -0.124293  
+99             146  Proposed  Far West   68.604978 -0.174463  
+111             27  Proposed      West    8.819712  0.278620  
+152            115  Proposed      West   43.120425  0.259317  
+153            110  Proposed      West   40.403016  0.260917  
+171            127  Proposed  Far West   51.688384  0.257222  
+236            127  Proposed      West   59.981183  0.280829  
+258             88  Proposed  Far West   33.411209  0.257476  
+259            109  Existing  Far West    7.251509 -0.166459  
+outliers for 7-8(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+7                       Armstrong Wind  34.9649 -101.3574     253.0   
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+39                   Cactus Flats Wind  31.3265  -99.8640     148.4   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+61                           Darmstadt  30.8975 -100.5385     200.9   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+152                   Maverick Creek I  31.3265  -99.8640     268.5   
+153                  Maverick Creek II  31.3265  -99.8640     255.9   
+166                     Northdraw Wind  34.9659 -101.8970     150.0   
+171                         Oveja Wind  31.3039 -100.9824     300.0   
+235                    Tierra Blanca W  34.9659 -101.8970     200.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+258                       Wilson Ranch  30.8975 -100.5385     199.5   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group    Region        std     error  
+7              108  Proposed     North  57.205436 -0.136888  
+30              36  Existing     North  16.411917 -0.176856  
+39              68  Proposed      West  23.918846  0.233646  
+43              92  Proposed     North  41.786995 -0.251320  
+61              88  Proposed  Far West  33.079903  0.232434  
+63              12  Proposed  Far West   1.935792 -0.375675  
+99             146  Proposed  Far West  68.604978 -0.175102  
+111             27  Proposed      West   8.819712  0.251048  
+152            115  Proposed      West  43.120425  0.233685  
+153            110  Proposed      West  40.403016  0.233857  
+166             68  Proposed     North  30.573194 -0.145513  
+171            127  Proposed  Far West  51.688384  0.236202  
+235             88  Proposed     North  40.815504 -0.144594  
+236            127  Proposed      West  59.981183  0.253228  
+258             88  Proposed  Far West  33.411209  0.231910  
+259            109  Existing  Far West   7.251509 -0.174212  
+outliers for 8-9(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+39                   Cactus Flats Wind  31.3265  -99.8640     148.4   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+61                           Darmstadt  30.8975 -100.5385     200.9   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+152                   Maverick Creek I  31.3265  -99.8640     268.5   
+153                  Maverick Creek II  31.3265  -99.8640     255.9   
+166                     Northdraw Wind  34.9659 -101.8970     150.0   
+171                         Oveja Wind  31.3039 -100.9824     300.0   
+235                    Tierra Blanca W  34.9659 -101.8970     200.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+256                      Wildrose Wind  34.5304 -101.7350     302.5   
+258                       Wilson Ranch  30.8975 -100.5385     199.5   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+
+     NumberOfUnits     Group    Region        std     error  
+30              36  Existing     North  16.411917 -0.197742  
+39              68  Proposed      West  23.918846  0.208968  
+43              92  Proposed     North  41.786995 -0.290485  
+61              88  Proposed  Far West  33.079903  0.205347  
+63              12  Proposed  Far West   1.935792 -0.403033  
+99             146  Proposed  Far West  68.604978 -0.171760  
+111             27  Proposed      West   8.819712  0.225886  
+152            115  Proposed      West  43.120425  0.212176  
+153            110  Proposed      West  40.403016  0.209288  
+166             68  Proposed     North  30.573194 -0.179805  
+171            127  Proposed  Far West  51.688384  0.210751  
+235             88  Proposed     North  40.815504 -0.181761  
+236            127  Proposed      West  59.981183  0.227326  
+256            128  Proposed     North  60.437500 -0.149439  
+258             88  Proposed  Far West  33.411209  0.204538  
+259            109  Existing  Far West   7.251509 -0.177185  
+outliers for 9-10(hr) 
+                         Facility.Name     lati     longi  Capacity  \
+30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
+32                           Buckthorn  32.3742  -98.3817     117.0   
+39                   Cactus Flats Wind  31.3265  -99.8640     148.4   
+43                Canadian Breaks Wind  35.4050 -102.6029     210.0   
+63                  Desert Sky repower  30.7811 -102.7236       7.2   
+99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
+111              Horse13 CallD repower  32.3015  -99.8901      44.0   
+152                   Maverick Creek I  31.3265  -99.8640     268.5   
+153                  Maverick Creek II  31.3265  -99.8640     255.9   
+166                     Northdraw Wind  34.9659 -101.8970     150.0   
+171                         Oveja Wind  31.3039 -100.9824     300.0   
+235                    Tierra Blanca W  34.9659 -101.8970     200.0   
+236                         Tiger Wind  32.3016  -99.8902     300.0   
+256                      Wildrose Wind  34.5304 -101.7350     302.5   
+259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
+262               Wolf Ridge Wind Farm  33.7292  -97.3936     147.0   
+
+     NumberOfUnits     Group         Region        std     error  
+30              36  Existing          North  16.411917 -0.214595  
+32              26  Existing  North Central  17.053520  0.175025  
+39              68  Proposed           West  23.918846  0.191878  
+43              92  Proposed          North  41.786995 -0.320671  
+63              12  Proposed       Far West   1.935792 -0.417265  
+99             146  Proposed       Far West  68.604978 -0.165581  
+111             27  Proposed           West   8.819712  0.206369  
+152            115  Proposed           West  43.120425  0.194073  
+153            110  Proposed           West  40.403016  0.191642  
+166             68  Proposed          North  30.573194 -0.204369  
+171            127  Proposed       Far West  51.688384  0.189491  
+235             88  Proposed          North  40.815504 -0.206038  
+236            127  Proposed           West  59.981183  0.207442  
+256            128  Proposed          North  60.437500 -0.170563  
+259            109  Existing       Far West   7.251509 -0.174125  
+262             75  Existing          North  22.392204  0.177235  
+outliers for 10-11(hr) 
+                         Facility.Name       lati       longi  Capacity  \
+30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
+32                           Buckthorn  32.374200  -98.381700     117.0   
+39                   Cactus Flats Wind  31.326500  -99.864000     148.4   
+43                Canadian Breaks Wind  35.405000 -102.602900     210.0   
+63                  Desert Sky repower  30.781100 -102.723600       7.2   
+111              Horse13 CallD repower  32.301500  -99.890100      44.0   
+152                   Maverick Creek I  31.326500  -99.864000     268.5   
+153                  Maverick Creek II  31.326500  -99.864000     255.9   
+166                     Northdraw Wind  34.965900 -101.897000     150.0   
+171                         Oveja Wind  31.303900 -100.982400     300.0   
+222                      Spinning Spur  35.297567 -102.530333     674.0   
+235                    Tierra Blanca W  34.965900 -101.897000     200.0   
+236                         Tiger Wind  32.301600  -99.890200     300.0   
+256                      Wildrose Wind  34.530400 -101.735000     302.5   
+259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
+262               Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
+
+     NumberOfUnits     Group         Region         std     error  
+30              36  Existing          North   16.411917 -0.230713  
+32              26  Existing  North Central   17.053520  0.164106  
+39              68  Proposed           West   23.918846  0.179620  
+43              92  Proposed          North   41.786995 -0.341953  
+63              12  Proposed       Far West    1.935792 -0.422001  
+111             27  Proposed           West    8.819712  0.191291  
+152            115  Proposed           West   43.120425  0.179575  
+153            110  Proposed           West   40.403016  0.180407  
+166             68  Proposed          North   30.573194 -0.220830  
+171            127  Proposed       Far West   51.688384  0.171943  
+222            254  Existing          North  106.781260 -0.177242  
+235             88  Proposed          North   40.815504 -0.220944  
+236            127  Proposed           West   59.981183  0.193948  
+256            128  Proposed          North   60.437500 -0.182650  
+259            109  Existing       Far West    7.251509 -0.168648  
+262             75  Existing          North   22.392204  0.167518  
+outliers for 11-12(hr) 
+                         Facility.Name       lati       longi  Capacity  \
+30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
+32                           Buckthorn  32.374200  -98.381700     117.0   
+39                   Cactus Flats Wind  31.326500  -99.864000     148.4   
+43                Canadian Breaks Wind  35.405000 -102.602900     210.0   
+63                  Desert Sky repower  30.781100 -102.723600       7.2   
+111              Horse13 CallD repower  32.301500  -99.890100      44.0   
+152                   Maverick Creek I  31.326500  -99.864000     268.5   
+153                  Maverick Creek II  31.326500  -99.864000     255.9   
+166                     Northdraw Wind  34.965900 -101.897000     150.0   
+171                         Oveja Wind  31.303900 -100.982400     300.0   
+222                      Spinning Spur  35.297567 -102.530333     674.0   
+235                    Tierra Blanca W  34.965900 -101.897000     200.0   
+236                         Tiger Wind  32.301600  -99.890200     300.0   
+256                      Wildrose Wind  34.530400 -101.735000     302.5   
+259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
+262               Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
+
+     NumberOfUnits     Group         Region         std     error  
+30              36  Existing          North   16.411917 -0.228646  
+32              26  Existing  North Central   17.053520  0.153491  
+39              68  Proposed           West   23.918846  0.166371  
+43              92  Proposed          North   41.786995 -0.334652  
+63              12  Proposed       Far West    1.935792 -0.417905  
+111             27  Proposed           West    8.819712  0.181255  
+152            115  Proposed           West   43.120425  0.166540  
+153            110  Proposed           West   40.403016  0.165802  
+166             68  Proposed          North   30.573194 -0.227364  
+171            127  Proposed       Far West   51.688384  0.154347  
+222            254  Existing          North  106.781260 -0.183068  
+235             88  Proposed          North   40.815504 -0.226171  
+236            127  Proposed           West   59.981183  0.183886  
+256            128  Proposed          North   60.437500 -0.187644  
+259            109  Existing       Far West    7.251509 -0.152702  
+262             75  Existing          North   22.392204  0.157502  
+outliers for 12-13(hr) 
+                         Facility.Name       lati       longi  Capacity  \
+30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
+32                           Buckthorn  32.374200  -98.381700     117.0   
+39                   Cactus Flats Wind  31.326500  -99.864000     148.4   
+43                Canadian Breaks Wind  35.405000 -102.602900     210.0   
+63                  Desert Sky repower  30.781100 -102.723600       7.2   
+111              Horse13 CallD repower  32.301500  -99.890100      44.0   
+122                             Keechi  33.190000  -98.177800     144.0   
+152                   Maverick Creek I  31.326500  -99.864000     268.5   
+153                  Maverick Creek II  31.326500  -99.864000     255.9   
+166                     Northdraw Wind  34.965900 -101.897000     150.0   
+222                      Spinning Spur  35.297567 -102.530333     674.0   
+235                    Tierra Blanca W  34.965900 -101.897000     200.0   
+236                         Tiger Wind  32.301600  -99.890200     300.0   
+256                      Wildrose Wind  34.530400 -101.735000     302.5   
+259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
+262               Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
+
+     NumberOfUnits     Group         Region         std     error  
+30              36  Existing          North   16.411917 -0.211486  
+32              26  Existing  North Central   17.053520  0.127153  
+39              68  Proposed           West   23.918846  0.132742  
+43              92  Proposed          North   41.786995 -0.304534  
+63              12  Proposed       Far West    1.935792 -0.400639  
+111             27  Proposed           West    8.819712  0.158113  
+122             55  Existing  North Central   22.882651  0.123740  
+152            115  Proposed           West   43.120425  0.133046  
+153            110  Proposed           West   40.403016  0.130011  
+166             68  Proposed          North   30.573194 -0.219557  
+222            254  Existing          North  106.781260 -0.170870  
+235             88  Proposed          North   40.815504 -0.217535  
+236            127  Proposed           West   59.981183  0.159172  
+256            128  Proposed          North   60.437500 -0.182660  
+259            109  Existing       Far West    7.251509 -0.141436  
+262             75  Existing          North   22.392204  0.133833  
+outliers for 13-14(hr) 
+                          Facility.Name       lati       longi  Capacity  \
+30              Broadview Energy JN LLC  34.801400 -102.996000     108.0   
+32                            Buckthorn  32.374200  -98.381700     117.0   
+36                Buffalo Gap Wind Farm  32.310600 -100.149000     683.0   
+40   Callahan Divide Wind Energy Center  32.310600 -100.149000     149.0   
+43                 Canadian Breaks Wind  35.405000 -102.602900     210.0   
+63                   Desert Sky repower  30.781100 -102.723600       7.2   
+111               Horse13 CallD repower  32.301500  -99.890100      44.0   
+122                              Keechi  33.190000  -98.177800     144.0   
+166                      Northdraw Wind  34.965900 -101.897000     150.0   
+222                       Spinning Spur  35.297567 -102.530333     674.0   
+235                     Tierra Blanca W  34.965900 -101.897000     200.0   
+236                          Tiger Wind  32.301600  -99.890200     300.0   
+242                         Tyler Bluff  33.703900  -97.371900     164.0   
+256                       Wildrose Wind  34.530400 -101.735000     302.5   
+259   Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
+262                Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
+
+     NumberOfUnits     Group         Region         std     error  
+30              36  Existing          North   16.411917 -0.188594  
+32              26  Existing  North Central   17.053520  0.085475  
+36             296  Existing           West  107.402149  0.091375  
+40              76  Existing           West   23.277523  0.093244  
+43              92  Proposed          North   41.786995 -0.260629  
+63              12  Proposed       Far West    1.935792 -0.358958  
+111             27  Proposed           West    8.819712  0.115502  
+122             55  Existing  North Central   22.882651  0.087902  
+166             68  Proposed          North   30.573194 -0.203124  
+222            254  Existing          North  106.781260 -0.154584  
+235             88  Proposed          North   40.815504 -0.202457  
+236            127  Proposed           West   59.981183  0.116386  
+242             52  Existing          North   24.655940  0.083941  
+256            128  Proposed          North   60.437500 -0.168599  
+259            109  Existing       Far West    7.251509 -0.139843  
+262             75  Existing          North   22.392204  0.096837  
+outliers for 14-15(hr) 
+                          Facility.Name       lati       longi  Capacity  \
+14                         Barrow Ranch  32.305000 -102.637800     160.0   
+30              Broadview Energy JN LLC  34.801400 -102.996000     108.0   
+36                Buffalo Gap Wind Farm  32.310600 -100.149000     683.0   
+40   Callahan Divide Wind Energy Center  32.310600 -100.149000     149.0   
+43                 Canadian Breaks Wind  35.405000 -102.602900     210.0   
+63                   Desert Sky repower  30.781100 -102.723600       7.2   
+111               Horse13 CallD repower  32.301500  -99.890100      44.0   
+122                              Keechi  33.190000  -98.177800     144.0   
+166                      Northdraw Wind  34.965900 -101.897000     150.0   
+222                       Spinning Spur  35.297567 -102.530333     674.0   
+235                     Tierra Blanca W  34.965900 -101.897000     200.0   
+236                          Tiger Wind  32.301600  -99.890200     300.0   
+241              Turkey Track Wind Farm  32.231900 -100.043000     221.0   
+242                         Tyler Bluff  33.703900  -97.371900     164.0   
+256                       Wildrose Wind  34.530400 -101.735000     302.5   
+262                Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
+
+     NumberOfUnits     Group         Region         std     error  
+14              72  Proposed       Far West   31.210183 -0.151744  
+30              36  Existing          North   16.411917 -0.161288  
+36             296  Existing           West  107.402149  0.055718  
+40              76  Existing           West   23.277523  0.056432  
+43              92  Proposed          North   41.786995 -0.209028  
+63              12  Proposed       Far West    1.935792 -0.309003  
+111             27  Proposed           West    8.819712  0.068765  
+122             55  Existing  North Central   22.882651  0.052385  
+166             68  Proposed          North   30.573194 -0.185136  
+222            254  Existing          North  106.781260 -0.137856  
+235             88  Proposed          North   40.815504 -0.184091  
+236            127  Proposed           West   59.981183  0.069123  
+241            113  Existing           West   34.007091  0.051083  
+242             52  Existing          North   24.655940  0.053744  
+256            128  Proposed          North   60.437500 -0.154866  
+262             75  Existing          North   22.392204  0.063318  
+outliers for 15-16(hr) 
+               Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+14              Barrow Ranch  32.3050 -102.6378    160.00             72   
+30   Broadview Energy JN LLC  34.8014 -102.9960    108.00             36   
+43      Canadian Breaks Wind  35.4050 -102.6029    210.00             92   
+63        Desert Sky repower  30.7811 -102.7236      7.20             12   
+66         East Raymond Wind  26.4706  -97.6732    201.60             88   
+70             El Suaz Ranch  26.4706  -97.6732    301.74            127   
+91          Grape Creek Wind  31.8885 -100.5299    525.00            215   
+132         Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159        Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160             Monte Alto I  26.4706  -97.6732    223.80             97   
+166           Northdraw Wind  34.9659 -101.8970    150.00             68   
+235          Tierra Blanca W  34.9659 -101.8970    200.00             88   
+242              Tyler Bluff  33.7039  -97.3719    164.00             52   
+249        West Raymond Wind  26.4706  -97.6732    239.80            103   
+256            Wildrose Wind  34.5304 -101.7350    302.50            128   
+262     Wolf Ridge Wind Farm  33.7292  -97.3936    147.00             75   
+
+        Group    Region        std     error  
+14   Proposed  Far West  31.210183 -0.171218  
+30   Existing     North  16.411917 -0.137174  
+43   Proposed     North  41.786995 -0.162866  
+63   Proposed  Far West   1.935792 -0.269828  
+66   Proposed     South  37.700915  0.037047  
+70   Proposed     South  55.317132  0.038591  
+91   Proposed      West  88.291738 -0.131685  
+132  Proposed     South  50.365251  0.037680  
+159  Proposed     South  43.729894  0.038663  
+160  Proposed     South  42.035862  0.038281  
+166  Proposed     North  30.573194 -0.166746  
+235  Proposed     North  40.815504 -0.167195  
+242  Existing     North  24.655940  0.031247  
+249  Proposed     South  44.761925  0.039139  
+256  Proposed     North  60.437500 -0.146294  
+262  Existing     North  22.392204  0.039250  
+outliers for 16-17(hr) 
+            Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+14           Barrow Ranch  32.3050 -102.6378    160.00             72   
+43   Canadian Breaks Wind  35.4050 -102.6029    210.00             92   
+63     Desert Sky repower  30.7811 -102.7236      7.20             12   
+66      East Raymond Wind  26.4706  -97.6732    201.60             88   
+70          El Suaz Ranch  26.4706  -97.6732    301.74            127   
+91       Grape Creek Wind  31.8885 -100.5299    525.00            215   
+132      Las Majadas Wind  26.4706  -97.6732    272.80            116   
+146          Magic Valley  26.4653  -97.6725    263.00            112   
+159     Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160          Monte Alto I  26.4706  -97.6732    223.80             97   
+166        Northdraw Wind  34.9659 -101.8970    150.00             68   
+191     Pumpkin Farm Wind  34.0724 -101.3032    280.90            119   
+235       Tierra Blanca W  34.9659 -101.8970    200.00             88   
+249     West Raymond Wind  26.4706  -97.6732    239.80            103   
+250  West Texas Windplant  31.7586 -104.7420     50.00            110   
+256         Wildrose Wind  34.5304 -101.7350    302.50            128   
+
+        Group    Region        std     error  
+14   Proposed  Far West  31.210183 -0.162042  
+43   Proposed     North  41.786995 -0.128918  
+63   Proposed  Far West   1.935792 -0.231097  
+66   Proposed     South  37.700915  0.041444  
+70   Proposed     South  55.317132  0.041749  
+91   Proposed      West  88.291738 -0.125368  
+132  Proposed     South  50.365251  0.041375  
+146  Existing     South  37.184715  0.032126  
+159  Proposed     South  43.729894  0.041796  
+160  Proposed     South  42.035862  0.040041  
+166  Proposed     North  30.573194 -0.150058  
+191  Proposed     North  57.694979 -0.124681  
+235  Proposed     North  40.815504 -0.152172  
+249  Proposed     South  44.761925  0.042697  
+250  Existing  Far West   7.449225  0.036336  
+256  Proposed     North  60.437500 -0.138312  
+outliers for 17-18(hr) 
+                 Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+14                Barrow Ranch  32.3050 -102.6378    160.00             72   
+45   Capricorn I & III repower  31.8279 -101.0500     32.00             22   
+63          Desert Sky repower  30.7811 -102.7236      7.20             12   
+66           East Raymond Wind  26.4706  -97.6732    201.60             88   
+70               El Suaz Ranch  26.4706  -97.6732    301.74            127   
+132           Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159          Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160               Monte Alto I  26.4706  -97.6732    223.80             97   
+166             Northdraw Wind  34.9659 -101.8970    150.00             68   
+191          Pumpkin Farm Wind  34.0724 -101.3032    280.90            119   
+207                  San Roman  26.1186  -97.3469    121.00             31   
+235            Tierra Blanca W  34.9659 -101.8970    200.00             88   
+249          West Raymond Wind  26.4706  -97.6732    239.80            103   
+250       West Texas Windplant  31.7586 -104.7420     50.00            110   
+254            Whitehorse Wind  32.7428 -100.4022    418.90            173   
+256              Wildrose Wind  34.5304 -101.7350    302.50            128   
+
+        Group    Region        std     error  
+14   Proposed  Far West  31.210183 -0.141527  
+45   Proposed  Far West   6.019067 -0.114979  
+63   Proposed  Far West   1.935792 -0.186829  
+66   Proposed     South  37.700915  0.053483  
+70   Proposed     South  55.317132  0.052848  
+132  Proposed     South  50.365251  0.053582  
+159  Proposed     South  43.729894  0.053793  
+160  Proposed     South  42.035862  0.052538  
+166  Proposed     North  30.573194 -0.130676  
+191  Proposed     North  57.694979 -0.117901  
+207  Existing     South  17.529914  0.052263  
+235  Proposed     North  40.815504 -0.132516  
+249  Proposed     South  44.761925  0.053020  
+250  Existing  Far West   7.449225  0.065651  
+254  Proposed      West  76.190222 -0.115833  
+256  Proposed     North  60.437500 -0.124881  
+outliers for 18-19(hr) 
+                   Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+14                  Barrow Ranch  32.3050 -102.6378    160.00             72   
+46          Capricorn IV repower  31.8279 -101.0500      9.00             13   
+62   Delaware Mountain Wind Farm  31.6708 -104.7390     37.00             38   
+63            Desert Sky repower  30.7811 -102.7236      7.20             12   
+66             East Raymond Wind  26.4706  -97.6732    201.60             88   
+70                 El Suaz Ranch  26.4706  -97.6732    301.74            127   
+102      Harald (BearKat Wind B)  31.8695 -101.5208    162.10             73   
+124        Kontiki 1 Wind (ERIK)  31.8695 -101.5208    255.30            109   
+125      Kontiki 2 Wind (ERNEST)  31.8695 -101.5208    255.30            109   
+129      Lacy Creek Wind Phase 1  31.8695 -101.5208    200.00             88   
+132             Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159            Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160                 Monte Alto I  26.4706  -97.6732    223.80             97   
+207                    San Roman  26.1186  -97.3469    121.00             31   
+208           Sand Bluff Repower  31.8695 -101.5208      7.40             13   
+250         West Texas Windplant  31.7586 -104.7420     50.00            110   
+
+        Group    Region        std     error  
+14   Proposed  Far West  31.210183 -0.116804  
+46   Proposed  Far West   1.695145 -0.113083  
+62   Existing  Far West   5.389931  0.075342  
+63   Proposed  Far West   1.935792 -0.135561  
+66   Proposed     South  37.700915  0.065761  
+70   Proposed     South  55.317132  0.066130  
+102  Proposed  Far West  30.491490 -0.114559  
+124  Proposed  Far West  47.974713 -0.114253  
+125  Proposed  Far West  48.476139 -0.114082  
+129  Proposed  Far West  38.001300 -0.114346  
+132  Proposed     South  50.365251  0.064977  
+159  Proposed     South  43.729894  0.066295  
+160  Proposed     South  42.035862  0.064148  
+207  Existing     South  17.529914  0.067372  
+208  Proposed  Far West   1.382761 -0.113692  
+250  Existing  Far West   7.449225  0.087061  
+outliers for 19-20(hr) 
+                   Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+61                     Darmstadt  30.8975 -100.5385    200.90             88   
+62   Delaware Mountain Wind Farm  31.6708 -104.7390     37.00             38   
+66             East Raymond Wind  26.4706  -97.6732    201.60             88   
+68          Edmondson Ranch Wind  31.8695 -101.5208    292.50            124   
+70                 El Suaz Ranch  26.4706  -97.6732    301.74            127   
+124        Kontiki 1 Wind (ERIK)  31.8695 -101.5208    255.30            109   
+125      Kontiki 2 Wind (ERNEST)  31.8695 -101.5208    255.30            109   
+129      Lacy Creek Wind Phase 1  31.8695 -101.5208    200.00             88   
+132             Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159            Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160                 Monte Alto I  26.4706  -97.6732    223.80             97   
+171                   Oveja Wind  31.3039 -100.9824    300.00            127   
+208           Sand Bluff Repower  31.8695 -101.5208      7.40             13   
+249            West Raymond Wind  26.4706  -97.6732    239.80            103   
+250         West Texas Windplant  31.7586 -104.7420     50.00            110   
+258                 Wilson Ranch  30.8975 -100.5385    199.50             88   
+
+        Group    Region        std     error  
+61   Proposed  Far West  33.079903 -0.106147  
+62   Existing  Far West   5.389931  0.088411  
+66   Proposed     South  37.700915  0.078200  
+68   Proposed  Far West  54.960095 -0.105453  
+70   Proposed     South  55.317132  0.079562  
+124  Proposed  Far West  47.974713 -0.105130  
+125  Proposed  Far West  48.476139 -0.106147  
+129  Proposed  Far West  38.001300 -0.105550  
+132  Proposed     South  50.365251  0.078910  
+159  Proposed     South  43.729894  0.078641  
+160  Proposed     South  42.035862  0.077589  
+171  Proposed  Far West  51.688384 -0.113360  
+208  Proposed  Far West   1.382761 -0.105428  
+249  Proposed     South  44.761925  0.077431  
+250  Existing  Far West   7.449225  0.099196  
+258  Proposed  Far West  33.411209 -0.106467  
+outliers for 20-21(hr) 
+               Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+61                 Darmstadt  30.8975 -100.5385    200.90             88   
+66         East Raymond Wind  26.4706  -97.6732    201.60             88   
+68      Edmondson Ranch Wind  31.8695 -101.5208    292.50            124   
+70             El Suaz Ranch  26.4706  -97.6732    301.74            127   
+96     Gulf Wind 2 Expansion  26.9281  -97.7174     47.90             28   
+124    Kontiki 1 Wind (ERIK)  31.8695 -101.5208    255.30            109   
+125  Kontiki 2 Wind (ERNEST)  31.8695 -101.5208    255.30            109   
+129  Lacy Creek Wind Phase 1  31.8695 -101.5208    200.00             88   
+132         Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159        Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160             Monte Alto I  26.4706  -97.6732    223.80             97   
+171               Oveja Wind  31.3039 -100.9824    300.00            127   
+208       Sand Bluff Repower  31.8695 -101.5208      7.40             13   
+249        West Raymond Wind  26.4706  -97.6732    239.80            103   
+250     West Texas Windplant  31.7586 -104.7420     50.00            110   
+258             Wilson Ranch  30.8975 -100.5385    199.50             88   
+
+        Group    Region        std     error  
+61   Proposed  Far West  33.079903 -0.104098  
+66   Proposed     South  37.700915  0.100760  
+68   Proposed  Far West  54.960095 -0.087378  
+70   Proposed     South  55.317132  0.101250  
+96   Proposed     South   9.281162  0.100374  
+124  Proposed  Far West  47.974713 -0.086145  
+125  Proposed  Far West  48.476139 -0.086789  
+129  Proposed  Far West  38.001300 -0.085947  
+132  Proposed     South  50.365251  0.101692  
+159  Proposed     South  43.729894  0.100778  
+160  Proposed     South  42.035862  0.101136  
+171  Proposed  Far West  51.688384 -0.101936  
+208  Proposed  Far West   1.382761 -0.087089  
+249  Proposed     South  44.761925  0.100641  
+250  Existing  Far West   7.449225  0.103955  
+258  Proposed  Far West  33.411209 -0.105470  
+outliers for 21-22(hr) 
+                Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+61                  Darmstadt  30.8975 -100.5385    200.90             88   
+66          East Raymond Wind  26.4706  -97.6732    201.60             88   
+70              El Suaz Ranch  26.4706  -97.6732    301.74            127   
+91           Grape Creek Wind  31.8885 -100.5299    525.00            215   
+95                Gulf Wind 2  26.9281  -97.7174    178.60             79   
+96      Gulf Wind 2 Expansion  26.9281  -97.7174     47.90             28   
+102   Harald (BearKat Wind B)  31.8695 -101.5208    162.10             73   
+124     Kontiki 1 Wind (ERIK)  31.8695 -101.5208    255.30            109   
+132          Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159         Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160              Monte Alto I  26.4706  -97.6732    223.80             97   
+171                Oveja Wind  31.3039 -100.9824    300.00            127   
+208        Sand Bluff Repower  31.8695 -101.5208      7.40             13   
+247  Water Valley Wind Energy  31.4044 -100.4621    150.00             68   
+249         West Raymond Wind  26.4706  -97.6732    239.80            103   
+258              Wilson Ranch  30.8975 -100.5385    199.50             88   
+
+        Group    Region        std     error  
+61   Proposed  Far West  33.079903 -0.094950  
+66   Proposed     South  37.700915  0.118638  
+70   Proposed     South  55.317132  0.117658  
+91   Proposed      West  88.291738 -0.064562  
+95   Proposed     South  34.639036  0.113735  
+96   Proposed     South   9.281162  0.114709  
+102  Proposed  Far West  30.491490 -0.064434  
+124  Proposed  Far West  47.974713 -0.064372  
+132  Proposed     South  50.365251  0.118007  
+159  Proposed     South  43.729894  0.117731  
+160  Proposed     South  42.035862  0.117674  
+171  Proposed  Far West  51.688384 -0.083095  
+208  Proposed  Far West   1.382761 -0.065386  
+247  Proposed      West  24.401315 -0.071873  
+249  Proposed     South  44.761925  0.118213  
+258  Proposed  Far West  33.411209 -0.095546  
+outliers for 22-23(hr) 
+                Facility.Name     lati     longi  Capacity  NumberOfUnits  \
+43       Canadian Breaks Wind  35.4050 -102.6029    210.00             92   
+61                  Darmstadt  30.8975 -100.5385    200.90             88   
+66          East Raymond Wind  26.4706  -97.6732    201.60             88   
+70              El Suaz Ranch  26.4706  -97.6732    301.74            127   
+91           Grape Creek Wind  31.8885 -100.5299    525.00            215   
+95                Gulf Wind 2  26.9281  -97.7174    178.60             79   
+96      Gulf Wind 2 Expansion  26.9281  -97.7174     47.90             28   
+130        Langford Wind Farm  31.1572 -100.6090    196.00            100   
+132          Las Majadas Wind  26.4706  -97.6732    272.80            116   
+159         Monte Alto 2 Wind  26.4706  -97.6732    236.90            102   
+160              Monte Alto I  26.4706  -97.6732    223.80             97   
+171                Oveja Wind  31.3039 -100.9824    300.00            127   
+247  Water Valley Wind Energy  31.4044 -100.4621    150.00             68   
+249         West Raymond Wind  26.4706  -97.6732    239.80            103   
+256             Wildrose Wind  34.5304 -101.7350    302.50            128   
+258              Wilson Ranch  30.8975 -100.5385    199.50             88   
+
+        Group    Region        std     error  
+43   Proposed     North  41.786995 -0.048894  
+61   Proposed  Far West  33.079903 -0.073704  
+66   Proposed     South  37.700915  0.123442  
+70   Proposed     South  55.317132  0.123787  
+91   Proposed      West  88.291738 -0.044882  
+95   Proposed     South  34.639036  0.119660  
+96   Proposed     South   9.281162  0.119230  
+130  Existing  Far West  23.858549 -0.045940  
+132  Proposed     South  50.365251  0.122767  
+159  Proposed     South  43.729894  0.122897  
+160  Proposed     South  42.035862  0.122631  
+171  Proposed  Far West  51.688384 -0.049789  
+247  Proposed      West  24.401315 -0.053731  
+249  Proposed     South  44.761925  0.122605  
+256  Proposed     North  60.437500 -0.045568  
+258  Proposed  Far West  33.411209 -0.076481  
+outliers for 23-24(hr) 
+                Facility.Name       lati       longi  Capacity  NumberOfUnits  \
+30    Broadview Energy JN LLC  34.801400 -102.996000    108.00             36   
+43       Canadian Breaks Wind  35.405000 -102.602900    210.00             92   
+61                  Darmstadt  30.897500 -100.538500    200.90             88   
+66          East Raymond Wind  26.470600  -97.673200    201.60             88   
+70              El Suaz Ranch  26.470600  -97.673200    301.74            127   
+96      Gulf Wind 2 Expansion  26.928100  -97.717400     47.90             28   
+116              JD Wind Farm  36.142555 -101.736364    235.00            118   
+132          Las Majadas Wind  26.470600  -97.673200    272.80            116   
+159         Monte Alto 2 Wind  26.470600  -97.673200    236.90            102   
+160              Monte Alto I  26.470600  -97.673200    223.80             97   
+224             Stella 2 Wind  26.928100  -97.717400    201.00             88   
+235           Tierra Blanca W  34.965900 -101.897000    200.00             88   
+247  Water Valley Wind Energy  31.404400 -100.462100    150.00             68   
+249         West Raymond Wind  26.470600  -97.673200    239.80            103   
+256             Wildrose Wind  34.530400 -101.735000    302.50            128   
+258              Wilson Ranch  30.897500 -100.538500    199.50             88   
+
+        Group    Region        std     error  
+30   Existing     North  16.411917 -0.050720  
+43   Proposed     North  41.786995 -0.063969  
+61   Proposed  Far West  33.079903 -0.056942  
+66   Proposed     South  37.700915  0.124007  
+70   Proposed     South  55.317132  0.127489  
+96   Proposed     South   9.281162  0.121343  
+116  Existing     North  40.044142 -0.041249  
+132  Proposed     South  50.365251  0.123770  
+159  Proposed     South  43.729894  0.124945  
+160  Proposed     South  42.035862  0.123642  
+224  Proposed     South  39.174946  0.121466  
+235  Proposed     North  40.815504 -0.038628  
+247  Proposed      West  24.401315 -0.041594  
+249  Proposed     South  44.761925  0.123528  
+256  Proposed     North  60.437500 -0.050962  
+258  Proposed  Far West  33.411209 -0.061503  
