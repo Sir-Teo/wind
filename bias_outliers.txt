@@ -17,23 +17,23 @@ outliers for 0-1(hr)
 256                      Wildrose Wind  34.530400 -101.735000     302.5   
 259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
 
-     NumberOfUnits     Group    Region         std     error  
-30              36  Existing     North   16.411917 -0.094817  
-38             102  Proposed     South   44.644878  0.217777  
-43              92  Proposed     North   41.786995 -0.122020  
-64             107  Existing  Far West   37.300331  0.198245  
-99             146  Proposed  Far West   68.604978 -0.074027  
-114            125  Existing  Far West   18.190402  0.194878  
-116            118  Existing     North   40.044142 -0.056519  
-123            219  Existing  Far West   63.319926  0.187747  
-131             88  Proposed     South   37.084584  0.218050  
-156             88  Proposed     South   37.024552  0.216043  
-176              5  Existing     North    2.510441 -0.057961  
-217            110  Existing  Far West   67.671127  0.187134  
-221            107  Existing  Far West   17.303528  0.195878  
-222            254  Existing     North  106.781260 -0.048904  
-256            128  Proposed     North   60.437500 -0.054379  
-259            109  Existing  Far West    7.251509 -0.078827  
+     NumberOfUnits     Group    Region     error  
+30              36  Existing     North -0.094817  
+38             102  Proposed     South  0.217777  
+43              92  Proposed     North -0.122020  
+64             107  Existing  Far West  0.198245  
+99             146  Proposed  Far West -0.074027  
+114            125  Existing  Far West  0.194878  
+116            118  Existing     North -0.056519  
+123            219  Existing  Far West  0.187747  
+131             88  Proposed     South  0.218050  
+156             88  Proposed     South  0.216043  
+176              5  Existing     North -0.057961  
+217            110  Existing  Far West  0.187134  
+221            107  Existing  Far West  0.195878  
+222            254  Existing     North -0.048904  
+256            128  Proposed     North -0.054379  
+259            109  Existing  Far West -0.078827  
 outliers for 1-2(hr) 
                          Facility.Name     lati     longi  Capacity  \
 12                       Barranca Wind  27.0008  -99.1686     201.6   
@@ -53,23 +53,23 @@ outliers for 1-2(hr)
 250               West Texas Windplant  31.7586 -104.7420      50.0   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group    Region        std     error  
-12              88  Proposed     South  32.095985  0.252554  
-13              88  Proposed     South  32.449884  0.252717  
-30              36  Existing     North  16.411917 -0.115861  
-38             102  Proposed     South  44.644878  0.274707  
-43              92  Proposed     North  41.786995 -0.137808  
-62              38  Existing  Far West   5.389931 -0.086378  
-63              12  Proposed  Far West   1.935792 -0.137516  
-99             146  Proposed  Far West  68.604978 -0.128828  
-131             88  Proposed     South  37.084584  0.276292  
-156             88  Proposed     South  37.024552  0.275013  
-176              5  Existing     North   2.510441 -0.082758  
-199             89  Proposed     South  32.045674  0.252978  
-243            166  Proposed     South  63.275395  0.252426  
-244             88  Proposed     South  32.241914  0.252038  
-250            110  Existing  Far West   7.449225 -0.062333  
-259            109  Existing  Far West   7.251509 -0.126542  
+     NumberOfUnits     Group    Region     error  
+12              88  Proposed     South  0.252554  
+13              88  Proposed     South  0.252717  
+30              36  Existing     North -0.115861  
+38             102  Proposed     South  0.274707  
+43              92  Proposed     North -0.137808  
+62              38  Existing  Far West -0.086378  
+63              12  Proposed  Far West -0.137516  
+99             146  Proposed  Far West -0.128828  
+131             88  Proposed     South  0.276292  
+156             88  Proposed     South  0.275013  
+176              5  Existing     North -0.082758  
+199             89  Proposed     South  0.252978  
+243            166  Proposed     South  0.252426  
+244             88  Proposed     South  0.252038  
+250            110  Existing  Far West -0.062333  
+259            109  Existing  Far West -0.126542  
 outliers for 2-3(hr) 
                          Facility.Name     lati     longi  Capacity  \
 12                       Barranca Wind  27.0008  -99.1686     201.6   
@@ -89,23 +89,23 @@ outliers for 2-3(hr)
 250               West Texas Windplant  31.7586 -104.7420      50.0   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group    Region        std     error  
-12              88  Proposed     South  32.095985  0.273667  
-13              88  Proposed     South  32.449884  0.275082  
-30              36  Existing     North  16.411917 -0.123271  
-38             102  Proposed     South  44.644878  0.274275  
-43              92  Proposed     North  41.786995 -0.135171  
-62              38  Existing  Far West   5.389931 -0.110664  
-63              12  Proposed  Far West   1.935792 -0.192077  
-99             146  Proposed  Far West  68.604978 -0.153308  
-111             27  Proposed      West   8.819712  0.275795  
-131             88  Proposed     South  37.084584  0.276043  
-156             88  Proposed     South  37.024552  0.275021  
-176              5  Existing     North   2.510441 -0.084601  
-199             89  Proposed     South  32.045674  0.273756  
-236            127  Proposed      West  59.981183  0.276488  
-250            110  Existing  Far West   7.449225 -0.081604  
-259            109  Existing  Far West   7.251509 -0.147642  
+     NumberOfUnits     Group    Region     error  
+12              88  Proposed     South  0.273667  
+13              88  Proposed     South  0.275082  
+30              36  Existing     North -0.123271  
+38             102  Proposed     South  0.274275  
+43              92  Proposed     North -0.135171  
+62              38  Existing  Far West -0.110664  
+63              12  Proposed  Far West -0.192077  
+99             146  Proposed  Far West -0.153308  
+111             27  Proposed      West  0.275795  
+131             88  Proposed     South  0.276043  
+156             88  Proposed     South  0.275021  
+176              5  Existing     North -0.084601  
+199             89  Proposed     South  0.273756  
+236            127  Proposed      West  0.276488  
+250            110  Existing  Far West -0.081604  
+259            109  Existing  Far West -0.147642  
 outliers for 3-4(hr) 
                          Facility.Name     lati     longi  Capacity  \
 11                    Baird North Wind  32.2977  -99.3735    293.55   
@@ -125,23 +125,23 @@ outliers for 3-4(hr)
 250               West Texas Windplant  31.7586 -104.7420     50.00   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430     52.00   
 
-     NumberOfUnits     Group         Region        std     error  
-11             124  Proposed  North Central  56.467627  0.288346  
-30              36  Existing          North  16.411917 -0.125029  
-39              68  Proposed           West  23.918846  0.287175  
-43              92  Proposed          North  41.786995 -0.136445  
-51              59  Proposed  North Central  24.464133  0.289934  
-62              38  Existing       Far West   5.389931 -0.121519  
-63              12  Proposed       Far West   1.935792 -0.232367  
-99             146  Proposed       Far West  68.604978 -0.162828  
-111             27  Proposed           West   8.819712  0.300352  
-118             49  Proposed  North Central  19.024801  0.289612  
-152            115  Proposed           West  43.120425  0.289580  
-153            110  Proposed           West  40.403016  0.289229  
-176              5  Existing          North   2.510441 -0.073315  
-236            127  Proposed           West  59.981183  0.302386  
-250            110  Existing       Far West   7.449225 -0.087637  
-259            109  Existing       Far West   7.251509 -0.154605  
+     NumberOfUnits     Group         Region     error  
+11             124  Proposed  North Central  0.288346  
+30              36  Existing          North -0.125029  
+39              68  Proposed           West  0.287175  
+43              92  Proposed          North -0.136445  
+51              59  Proposed  North Central  0.289934  
+62              38  Existing       Far West -0.121519  
+63              12  Proposed       Far West -0.232367  
+99             146  Proposed       Far West -0.162828  
+111             27  Proposed           West  0.300352  
+118             49  Proposed  North Central  0.289612  
+152            115  Proposed           West  0.289580  
+153            110  Proposed           West  0.289229  
+176              5  Existing          North -0.073315  
+236            127  Proposed           West  0.302386  
+250            110  Existing       Far West -0.087637  
+259            109  Existing       Far West -0.154605  
 outliers for 4-5(hr) 
                          Facility.Name     lati     longi  Capacity  \
 30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
@@ -161,23 +161,23 @@ outliers for 4-5(hr)
 250               West Texas Windplant  31.7586 -104.7420      50.0   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group         Region        std     error  
-30              36  Existing          North  16.411917 -0.127952  
-39              68  Proposed           West  23.918846  0.294129  
-43              92  Proposed          North  41.786995 -0.143992  
-51              59  Proposed  North Central  24.464133  0.289011  
-62              38  Existing       Far West   5.389931 -0.127996  
-63              12  Proposed       Far West   1.935792 -0.270763  
-99             146  Proposed       Far West  68.604978 -0.173134  
-111             27  Proposed           West   8.819712  0.309167  
-118             49  Proposed  North Central  19.024801  0.287951  
-152            115  Proposed           West  43.120425  0.294431  
-153            110  Proposed           West  40.403016  0.292253  
-171            127  Proposed       Far West  51.688384  0.287192  
-176              5  Existing          North   2.510441 -0.064975  
-236            127  Proposed           West  59.981183  0.308427  
-250            110  Existing       Far West   7.449225 -0.091255  
-259            109  Existing       Far West   7.251509 -0.161127  
+     NumberOfUnits     Group         Region     error  
+30              36  Existing          North -0.127952  
+39              68  Proposed           West  0.294129  
+43              92  Proposed          North -0.143992  
+51              59  Proposed  North Central  0.289011  
+62              38  Existing       Far West -0.127996  
+63              12  Proposed       Far West -0.270763  
+99             146  Proposed       Far West -0.173134  
+111             27  Proposed           West  0.309167  
+118             49  Proposed  North Central  0.287951  
+152            115  Proposed           West  0.294431  
+153            110  Proposed           West  0.292253  
+171            127  Proposed       Far West  0.287192  
+176              5  Existing          North -0.064975  
+236            127  Proposed           West  0.308427  
+250            110  Existing       Far West -0.091255  
+259            109  Existing       Far West -0.161127  
 outliers for 5-6(hr) 
                          Facility.Name     lati     longi  Capacity  \
 7                       Armstrong Wind  34.9649 -101.3574     253.0   
@@ -197,23 +197,23 @@ outliers for 5-6(hr)
 258                       Wilson Ranch  30.8975 -100.5385     199.5   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group         Region         std     error  
-7              108  Proposed          North   57.205436 -0.096264  
-30              36  Existing          North   16.411917 -0.137879  
-39              68  Proposed           West   23.918846  0.283441  
-43              92  Proposed          North   41.786995 -0.163644  
-51              59  Proposed  North Central   24.464133  0.274537  
-62              38  Existing       Far West    5.389931 -0.127895  
-63              12  Proposed       Far West    1.935792 -0.307586  
-86             207  Proposed          North  115.660475 -0.095607  
-99             146  Proposed       Far West   68.604978 -0.176727  
-111             27  Proposed           West    8.819712  0.300521  
-152            115  Proposed           West   43.120425  0.282281  
-153            110  Proposed           West   40.403016  0.281891  
-171            127  Proposed       Far West   51.688384  0.274526  
-236            127  Proposed           West   59.981183  0.300165  
-258             88  Proposed       Far West   33.411209  0.275121  
-259            109  Existing       Far West    7.251509 -0.163470  
+     NumberOfUnits     Group         Region     error  
+7              108  Proposed          North -0.096264  
+30              36  Existing          North -0.137879  
+39              68  Proposed           West  0.283441  
+43              92  Proposed          North -0.163644  
+51              59  Proposed  North Central  0.274537  
+62              38  Existing       Far West -0.127895  
+63              12  Proposed       Far West -0.307586  
+86             207  Proposed          North -0.095607  
+99             146  Proposed       Far West -0.176727  
+111             27  Proposed           West  0.300521  
+152            115  Proposed           West  0.282281  
+153            110  Proposed           West  0.281891  
+171            127  Proposed       Far West  0.274526  
+236            127  Proposed           West  0.300165  
+258             88  Proposed       Far West  0.275121  
+259            109  Existing       Far West -0.163470  
 outliers for 6-7(hr) 
                          Facility.Name     lati     longi  Capacity  \
 7                       Armstrong Wind  34.9649 -101.3574     253.0   
@@ -233,23 +233,23 @@ outliers for 6-7(hr)
 258                       Wilson Ranch  30.8975 -100.5385     199.5   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group    Region         std     error  
-7              108  Proposed     North   57.205436 -0.125335  
-30              36  Existing     North   16.411917 -0.154449  
-39              68  Proposed      West   23.918846  0.261059  
-43              92  Proposed     North   41.786995 -0.202914  
-61              88  Proposed  Far West   33.079903  0.257322  
-62              38  Existing  Far West    5.389931 -0.124582  
-63              12  Proposed  Far West    1.935792 -0.341602  
-86             207  Proposed     North  115.660475 -0.124293  
-99             146  Proposed  Far West   68.604978 -0.174463  
-111             27  Proposed      West    8.819712  0.278620  
-152            115  Proposed      West   43.120425  0.259317  
-153            110  Proposed      West   40.403016  0.260917  
-171            127  Proposed  Far West   51.688384  0.257222  
-236            127  Proposed      West   59.981183  0.280829  
-258             88  Proposed  Far West   33.411209  0.257476  
-259            109  Existing  Far West    7.251509 -0.166459  
+     NumberOfUnits     Group    Region     error  
+7              108  Proposed     North -0.125335  
+30              36  Existing     North -0.154449  
+39              68  Proposed      West  0.261059  
+43              92  Proposed     North -0.202914  
+61              88  Proposed  Far West  0.257322  
+62              38  Existing  Far West -0.124582  
+63              12  Proposed  Far West -0.341602  
+86             207  Proposed     North -0.124293  
+99             146  Proposed  Far West -0.174463  
+111             27  Proposed      West  0.278620  
+152            115  Proposed      West  0.259317  
+153            110  Proposed      West  0.260917  
+171            127  Proposed  Far West  0.257222  
+236            127  Proposed      West  0.280829  
+258             88  Proposed  Far West  0.257476  
+259            109  Existing  Far West -0.166459  
 outliers for 7-8(hr) 
                          Facility.Name     lati     longi  Capacity  \
 7                       Armstrong Wind  34.9649 -101.3574     253.0   
@@ -269,23 +269,23 @@ outliers for 7-8(hr)
 258                       Wilson Ranch  30.8975 -100.5385     199.5   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group    Region        std     error  
-7              108  Proposed     North  57.205436 -0.136888  
-30              36  Existing     North  16.411917 -0.176856  
-39              68  Proposed      West  23.918846  0.233646  
-43              92  Proposed     North  41.786995 -0.251320  
-61              88  Proposed  Far West  33.079903  0.232434  
-63              12  Proposed  Far West   1.935792 -0.375675  
-99             146  Proposed  Far West  68.604978 -0.175102  
-111             27  Proposed      West   8.819712  0.251048  
-152            115  Proposed      West  43.120425  0.233685  
-153            110  Proposed      West  40.403016  0.233857  
-166             68  Proposed     North  30.573194 -0.145513  
-171            127  Proposed  Far West  51.688384  0.236202  
-235             88  Proposed     North  40.815504 -0.144594  
-236            127  Proposed      West  59.981183  0.253228  
-258             88  Proposed  Far West  33.411209  0.231910  
-259            109  Existing  Far West   7.251509 -0.174212  
+     NumberOfUnits     Group    Region     error  
+7              108  Proposed     North -0.136888  
+30              36  Existing     North -0.176856  
+39              68  Proposed      West  0.233646  
+43              92  Proposed     North -0.251320  
+61              88  Proposed  Far West  0.232434  
+63              12  Proposed  Far West -0.375675  
+99             146  Proposed  Far West -0.175102  
+111             27  Proposed      West  0.251048  
+152            115  Proposed      West  0.233685  
+153            110  Proposed      West  0.233857  
+166             68  Proposed     North -0.145513  
+171            127  Proposed  Far West  0.236202  
+235             88  Proposed     North -0.144594  
+236            127  Proposed      West  0.253228  
+258             88  Proposed  Far West  0.231910  
+259            109  Existing  Far West -0.174212  
 outliers for 8-9(hr) 
                          Facility.Name     lati     longi  Capacity  \
 30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
@@ -305,23 +305,23 @@ outliers for 8-9(hr)
 258                       Wilson Ranch  30.8975 -100.5385     199.5   
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 
-     NumberOfUnits     Group    Region        std     error  
-30              36  Existing     North  16.411917 -0.197742  
-39              68  Proposed      West  23.918846  0.208968  
-43              92  Proposed     North  41.786995 -0.290485  
-61              88  Proposed  Far West  33.079903  0.205347  
-63              12  Proposed  Far West   1.935792 -0.403033  
-99             146  Proposed  Far West  68.604978 -0.171760  
-111             27  Proposed      West   8.819712  0.225886  
-152            115  Proposed      West  43.120425  0.212176  
-153            110  Proposed      West  40.403016  0.209288  
-166             68  Proposed     North  30.573194 -0.179805  
-171            127  Proposed  Far West  51.688384  0.210751  
-235             88  Proposed     North  40.815504 -0.181761  
-236            127  Proposed      West  59.981183  0.227326  
-256            128  Proposed     North  60.437500 -0.149439  
-258             88  Proposed  Far West  33.411209  0.204538  
-259            109  Existing  Far West   7.251509 -0.177185  
+     NumberOfUnits     Group    Region     error  
+30              36  Existing     North -0.197742  
+39              68  Proposed      West  0.208968  
+43              92  Proposed     North -0.290485  
+61              88  Proposed  Far West  0.205347  
+63              12  Proposed  Far West -0.403033  
+99             146  Proposed  Far West -0.171760  
+111             27  Proposed      West  0.225886  
+152            115  Proposed      West  0.212176  
+153            110  Proposed      West  0.209288  
+166             68  Proposed     North -0.179805  
+171            127  Proposed  Far West  0.210751  
+235             88  Proposed     North -0.181761  
+236            127  Proposed      West  0.227326  
+256            128  Proposed     North -0.149439  
+258             88  Proposed  Far West  0.204538  
+259            109  Existing  Far West -0.177185  
 outliers for 9-10(hr) 
                          Facility.Name     lati     longi  Capacity  \
 30             Broadview Energy JN LLC  34.8014 -102.9960     108.0   
@@ -341,23 +341,23 @@ outliers for 9-10(hr)
 259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
 262               Wolf Ridge Wind Farm  33.7292  -97.3936     147.0   
 
-     NumberOfUnits     Group         Region        std     error  
-30              36  Existing          North  16.411917 -0.214595  
-32              26  Existing  North Central  17.053520  0.175025  
-39              68  Proposed           West  23.918846  0.191878  
-43              92  Proposed          North  41.786995 -0.320671  
-63              12  Proposed       Far West   1.935792 -0.417265  
-99             146  Proposed       Far West  68.604978 -0.165581  
-111             27  Proposed           West   8.819712  0.206369  
-152            115  Proposed           West  43.120425  0.194073  
-153            110  Proposed           West  40.403016  0.191642  
-166             68  Proposed          North  30.573194 -0.204369  
-171            127  Proposed       Far West  51.688384  0.189491  
-235             88  Proposed          North  40.815504 -0.206038  
-236            127  Proposed           West  59.981183  0.207442  
-256            128  Proposed          North  60.437500 -0.170563  
-259            109  Existing       Far West   7.251509 -0.174125  
-262             75  Existing          North  22.392204  0.177235  
+     NumberOfUnits     Group         Region     error  
+30              36  Existing          North -0.214595  
+32              26  Existing  North Central  0.175025  
+39              68  Proposed           West  0.191878  
+43              92  Proposed          North -0.320671  
+63              12  Proposed       Far West -0.417265  
+99             146  Proposed       Far West -0.165581  
+111             27  Proposed           West  0.206369  
+152            115  Proposed           West  0.194073  
+153            110  Proposed           West  0.191642  
+166             68  Proposed          North -0.204369  
+171            127  Proposed       Far West  0.189491  
+235             88  Proposed          North -0.206038  
+236            127  Proposed           West  0.207442  
+256            128  Proposed          North -0.170563  
+259            109  Existing       Far West -0.174125  
+262             75  Existing          North  0.177235  
 outliers for 10-11(hr) 
                          Facility.Name       lati       longi  Capacity  \
 30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
@@ -377,23 +377,23 @@ outliers for 10-11(hr)
 259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
 262               Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
 
-     NumberOfUnits     Group         Region         std     error  
-30              36  Existing          North   16.411917 -0.230713  
-32              26  Existing  North Central   17.053520  0.164106  
-39              68  Proposed           West   23.918846  0.179620  
-43              92  Proposed          North   41.786995 -0.341953  
-63              12  Proposed       Far West    1.935792 -0.422001  
-111             27  Proposed           West    8.819712  0.191291  
-152            115  Proposed           West   43.120425  0.179575  
-153            110  Proposed           West   40.403016  0.180407  
-166             68  Proposed          North   30.573194 -0.220830  
-171            127  Proposed       Far West   51.688384  0.171943  
-222            254  Existing          North  106.781260 -0.177242  
-235             88  Proposed          North   40.815504 -0.220944  
-236            127  Proposed           West   59.981183  0.193948  
-256            128  Proposed          North   60.437500 -0.182650  
-259            109  Existing       Far West    7.251509 -0.168648  
-262             75  Existing          North   22.392204  0.167518  
+     NumberOfUnits     Group         Region     error  
+30              36  Existing          North -0.230713  
+32              26  Existing  North Central  0.164106  
+39              68  Proposed           West  0.179620  
+43              92  Proposed          North -0.341953  
+63              12  Proposed       Far West -0.422001  
+111             27  Proposed           West  0.191291  
+152            115  Proposed           West  0.179575  
+153            110  Proposed           West  0.180407  
+166             68  Proposed          North -0.220830  
+171            127  Proposed       Far West  0.171943  
+222            254  Existing          North -0.177242  
+235             88  Proposed          North -0.220944  
+236            127  Proposed           West  0.193948  
+256            128  Proposed          North -0.182650  
+259            109  Existing       Far West -0.168648  
+262             75  Existing          North  0.167518  
 outliers for 11-12(hr) 
                          Facility.Name       lati       longi  Capacity  \
 30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
@@ -413,23 +413,23 @@ outliers for 11-12(hr)
 259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
 262               Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
 
-     NumberOfUnits     Group         Region         std     error  
-30              36  Existing          North   16.411917 -0.228646  
-32              26  Existing  North Central   17.053520  0.153491  
-39              68  Proposed           West   23.918846  0.166371  
-43              92  Proposed          North   41.786995 -0.334652  
-63              12  Proposed       Far West    1.935792 -0.417905  
-111             27  Proposed           West    8.819712  0.181255  
-152            115  Proposed           West   43.120425  0.166540  
-153            110  Proposed           West   40.403016  0.165802  
-166             68  Proposed          North   30.573194 -0.227364  
-171            127  Proposed       Far West   51.688384  0.154347  
-222            254  Existing          North  106.781260 -0.183068  
-235             88  Proposed          North   40.815504 -0.226171  
-236            127  Proposed           West   59.981183  0.183886  
-256            128  Proposed          North   60.437500 -0.187644  
-259            109  Existing       Far West    7.251509 -0.152702  
-262             75  Existing          North   22.392204  0.157502  
+     NumberOfUnits     Group         Region     error  
+30              36  Existing          North -0.228646  
+32              26  Existing  North Central  0.153491  
+39              68  Proposed           West  0.166371  
+43              92  Proposed          North -0.334652  
+63              12  Proposed       Far West -0.417905  
+111             27  Proposed           West  0.181255  
+152            115  Proposed           West  0.166540  
+153            110  Proposed           West  0.165802  
+166             68  Proposed          North -0.227364  
+171            127  Proposed       Far West  0.154347  
+222            254  Existing          North -0.183068  
+235             88  Proposed          North -0.226171  
+236            127  Proposed           West  0.183886  
+256            128  Proposed          North -0.187644  
+259            109  Existing       Far West -0.152702  
+262             75  Existing          North  0.157502  
 outliers for 12-13(hr) 
                          Facility.Name       lati       longi  Capacity  \
 30             Broadview Energy JN LLC  34.801400 -102.996000     108.0   
@@ -449,23 +449,23 @@ outliers for 12-13(hr)
 259  Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
 262               Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
 
-     NumberOfUnits     Group         Region         std     error  
-30              36  Existing          North   16.411917 -0.211486  
-32              26  Existing  North Central   17.053520  0.127153  
-39              68  Proposed           West   23.918846  0.132742  
-43              92  Proposed          North   41.786995 -0.304534  
-63              12  Proposed       Far West    1.935792 -0.400639  
-111             27  Proposed           West    8.819712  0.158113  
-122             55  Existing  North Central   22.882651  0.123740  
-152            115  Proposed           West   43.120425  0.133046  
-153            110  Proposed           West   40.403016  0.130011  
-166             68  Proposed          North   30.573194 -0.219557  
-222            254  Existing          North  106.781260 -0.170870  
-235             88  Proposed          North   40.815504 -0.217535  
-236            127  Proposed           West   59.981183  0.159172  
-256            128  Proposed          North   60.437500 -0.182660  
-259            109  Existing       Far West    7.251509 -0.141436  
-262             75  Existing          North   22.392204  0.133833  
+     NumberOfUnits     Group         Region     error  
+30              36  Existing          North -0.211486  
+32              26  Existing  North Central  0.127153  
+39              68  Proposed           West  0.132742  
+43              92  Proposed          North -0.304534  
+63              12  Proposed       Far West -0.400639  
+111             27  Proposed           West  0.158113  
+122             55  Existing  North Central  0.123740  
+152            115  Proposed           West  0.133046  
+153            110  Proposed           West  0.130011  
+166             68  Proposed          North -0.219557  
+222            254  Existing          North -0.170870  
+235             88  Proposed          North -0.217535  
+236            127  Proposed           West  0.159172  
+256            128  Proposed          North -0.182660  
+259            109  Existing       Far West -0.141436  
+262             75  Existing          North  0.133833  
 outliers for 13-14(hr) 
                           Facility.Name       lati       longi  Capacity  \
 30              Broadview Energy JN LLC  34.801400 -102.996000     108.0   
@@ -485,23 +485,23 @@ outliers for 13-14(hr)
 259   Wind Power Partners '94 Wind Farm  31.350800 -104.443000      52.0   
 262                Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
 
-     NumberOfUnits     Group         Region         std     error  
-30              36  Existing          North   16.411917 -0.188594  
-32              26  Existing  North Central   17.053520  0.085475  
-36             296  Existing           West  107.402149  0.091375  
-40              76  Existing           West   23.277523  0.093244  
-43              92  Proposed          North   41.786995 -0.260629  
-63              12  Proposed       Far West    1.935792 -0.358958  
-111             27  Proposed           West    8.819712  0.115502  
-122             55  Existing  North Central   22.882651  0.087902  
-166             68  Proposed          North   30.573194 -0.203124  
-222            254  Existing          North  106.781260 -0.154584  
-235             88  Proposed          North   40.815504 -0.202457  
-236            127  Proposed           West   59.981183  0.116386  
-242             52  Existing          North   24.655940  0.083941  
-256            128  Proposed          North   60.437500 -0.168599  
-259            109  Existing       Far West    7.251509 -0.139843  
-262             75  Existing          North   22.392204  0.096837  
+     NumberOfUnits     Group         Region     error  
+30              36  Existing          North -0.188594  
+32              26  Existing  North Central  0.085475  
+36             296  Existing           West  0.091375  
+40              76  Existing           West  0.093244  
+43              92  Proposed          North -0.260629  
+63              12  Proposed       Far West -0.358958  
+111             27  Proposed           West  0.115502  
+122             55  Existing  North Central  0.087902  
+166             68  Proposed          North -0.203124  
+222            254  Existing          North -0.154584  
+235             88  Proposed          North -0.202457  
+236            127  Proposed           West  0.116386  
+242             52  Existing          North  0.083941  
+256            128  Proposed          North -0.168599  
+259            109  Existing       Far West -0.139843  
+262             75  Existing          North  0.096837  
 outliers for 14-15(hr) 
                           Facility.Name       lati       longi  Capacity  \
 14                         Barrow Ranch  32.305000 -102.637800     160.0   
@@ -521,23 +521,23 @@ outliers for 14-15(hr)
 256                       Wildrose Wind  34.530400 -101.735000     302.5   
 262                Wolf Ridge Wind Farm  33.729200  -97.393600     147.0   
 
-     NumberOfUnits     Group         Region         std     error  
-14              72  Proposed       Far West   31.210183 -0.151744  
-30              36  Existing          North   16.411917 -0.161288  
-36             296  Existing           West  107.402149  0.055718  
-40              76  Existing           West   23.277523  0.056432  
-43              92  Proposed          North   41.786995 -0.209028  
-63              12  Proposed       Far West    1.935792 -0.309003  
-111             27  Proposed           West    8.819712  0.068765  
-122             55  Existing  North Central   22.882651  0.052385  
-166             68  Proposed          North   30.573194 -0.185136  
-222            254  Existing          North  106.781260 -0.137856  
-235             88  Proposed          North   40.815504 -0.184091  
-236            127  Proposed           West   59.981183  0.069123  
-241            113  Existing           West   34.007091  0.051083  
-242             52  Existing          North   24.655940  0.053744  
-256            128  Proposed          North   60.437500 -0.154866  
-262             75  Existing          North   22.392204  0.063318  
+     NumberOfUnits     Group         Region     error  
+14              72  Proposed       Far West -0.151744  
+30              36  Existing          North -0.161288  
+36             296  Existing           West  0.055718  
+40              76  Existing           West  0.056432  
+43              92  Proposed          North -0.209028  
+63              12  Proposed       Far West -0.309003  
+111             27  Proposed           West  0.068765  
+122             55  Existing  North Central  0.052385  
+166             68  Proposed          North -0.185136  
+222            254  Existing          North -0.137856  
+235             88  Proposed          North -0.184091  
+236            127  Proposed           West  0.069123  
+241            113  Existing           West  0.051083  
+242             52  Existing          North  0.053744  
+256            128  Proposed          North -0.154866  
+262             75  Existing          North  0.063318  
 outliers for 15-16(hr) 
                Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 14              Barrow Ranch  32.3050 -102.6378    160.00             72   
@@ -557,23 +557,23 @@ outliers for 15-16(hr)
 256            Wildrose Wind  34.5304 -101.7350    302.50            128   
 262     Wolf Ridge Wind Farm  33.7292  -97.3936    147.00             75   
 
-        Group    Region        std     error  
-14   Proposed  Far West  31.210183 -0.171218  
-30   Existing     North  16.411917 -0.137174  
-43   Proposed     North  41.786995 -0.162866  
-63   Proposed  Far West   1.935792 -0.269828  
-66   Proposed     South  37.700915  0.037047  
-70   Proposed     South  55.317132  0.038591  
-91   Proposed      West  88.291738 -0.131685  
-132  Proposed     South  50.365251  0.037680  
-159  Proposed     South  43.729894  0.038663  
-160  Proposed     South  42.035862  0.038281  
-166  Proposed     North  30.573194 -0.166746  
-235  Proposed     North  40.815504 -0.167195  
-242  Existing     North  24.655940  0.031247  
-249  Proposed     South  44.761925  0.039139  
-256  Proposed     North  60.437500 -0.146294  
-262  Existing     North  22.392204  0.039250  
+        Group    Region     error  
+14   Proposed  Far West -0.171218  
+30   Existing     North -0.137174  
+43   Proposed     North -0.162866  
+63   Proposed  Far West -0.269828  
+66   Proposed     South  0.037047  
+70   Proposed     South  0.038591  
+91   Proposed      West -0.131685  
+132  Proposed     South  0.037680  
+159  Proposed     South  0.038663  
+160  Proposed     South  0.038281  
+166  Proposed     North -0.166746  
+235  Proposed     North -0.167195  
+242  Existing     North  0.031247  
+249  Proposed     South  0.039139  
+256  Proposed     North -0.146294  
+262  Existing     North  0.039250  
 outliers for 16-17(hr) 
             Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 14           Barrow Ranch  32.3050 -102.6378    160.00             72   
@@ -593,23 +593,23 @@ outliers for 16-17(hr)
 250  West Texas Windplant  31.7586 -104.7420     50.00            110   
 256         Wildrose Wind  34.5304 -101.7350    302.50            128   
 
-        Group    Region        std     error  
-14   Proposed  Far West  31.210183 -0.162042  
-43   Proposed     North  41.786995 -0.128918  
-63   Proposed  Far West   1.935792 -0.231097  
-66   Proposed     South  37.700915  0.041444  
-70   Proposed     South  55.317132  0.041749  
-91   Proposed      West  88.291738 -0.125368  
-132  Proposed     South  50.365251  0.041375  
-146  Existing     South  37.184715  0.032126  
-159  Proposed     South  43.729894  0.041796  
-160  Proposed     South  42.035862  0.040041  
-166  Proposed     North  30.573194 -0.150058  
-191  Proposed     North  57.694979 -0.124681  
-235  Proposed     North  40.815504 -0.152172  
-249  Proposed     South  44.761925  0.042697  
-250  Existing  Far West   7.449225  0.036336  
-256  Proposed     North  60.437500 -0.138312  
+        Group    Region     error  
+14   Proposed  Far West -0.162042  
+43   Proposed     North -0.128918  
+63   Proposed  Far West -0.231097  
+66   Proposed     South  0.041444  
+70   Proposed     South  0.041749  
+91   Proposed      West -0.125368  
+132  Proposed     South  0.041375  
+146  Existing     South  0.032126  
+159  Proposed     South  0.041796  
+160  Proposed     South  0.040041  
+166  Proposed     North -0.150058  
+191  Proposed     North -0.124681  
+235  Proposed     North -0.152172  
+249  Proposed     South  0.042697  
+250  Existing  Far West  0.036336  
+256  Proposed     North -0.138312  
 outliers for 17-18(hr) 
                  Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 14                Barrow Ranch  32.3050 -102.6378    160.00             72   
@@ -629,23 +629,23 @@ outliers for 17-18(hr)
 254            Whitehorse Wind  32.7428 -100.4022    418.90            173   
 256              Wildrose Wind  34.5304 -101.7350    302.50            128   
 
-        Group    Region        std     error  
-14   Proposed  Far West  31.210183 -0.141527  
-45   Proposed  Far West   6.019067 -0.114979  
-63   Proposed  Far West   1.935792 -0.186829  
-66   Proposed     South  37.700915  0.053483  
-70   Proposed     South  55.317132  0.052848  
-132  Proposed     South  50.365251  0.053582  
-159  Proposed     South  43.729894  0.053793  
-160  Proposed     South  42.035862  0.052538  
-166  Proposed     North  30.573194 -0.130676  
-191  Proposed     North  57.694979 -0.117901  
-207  Existing     South  17.529914  0.052263  
-235  Proposed     North  40.815504 -0.132516  
-249  Proposed     South  44.761925  0.053020  
-250  Existing  Far West   7.449225  0.065651  
-254  Proposed      West  76.190222 -0.115833  
-256  Proposed     North  60.437500 -0.124881  
+        Group    Region     error  
+14   Proposed  Far West -0.141527  
+45   Proposed  Far West -0.114979  
+63   Proposed  Far West -0.186829  
+66   Proposed     South  0.053483  
+70   Proposed     South  0.052848  
+132  Proposed     South  0.053582  
+159  Proposed     South  0.053793  
+160  Proposed     South  0.052538  
+166  Proposed     North -0.130676  
+191  Proposed     North -0.117901  
+207  Existing     South  0.052263  
+235  Proposed     North -0.132516  
+249  Proposed     South  0.053020  
+250  Existing  Far West  0.065651  
+254  Proposed      West -0.115833  
+256  Proposed     North -0.124881  
 outliers for 18-19(hr) 
                    Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 14                  Barrow Ranch  32.3050 -102.6378    160.00             72   
@@ -665,23 +665,23 @@ outliers for 18-19(hr)
 208           Sand Bluff Repower  31.8695 -101.5208      7.40             13   
 250         West Texas Windplant  31.7586 -104.7420     50.00            110   
 
-        Group    Region        std     error  
-14   Proposed  Far West  31.210183 -0.116804  
-46   Proposed  Far West   1.695145 -0.113083  
-62   Existing  Far West   5.389931  0.075342  
-63   Proposed  Far West   1.935792 -0.135561  
-66   Proposed     South  37.700915  0.065761  
-70   Proposed     South  55.317132  0.066130  
-102  Proposed  Far West  30.491490 -0.114559  
-124  Proposed  Far West  47.974713 -0.114253  
-125  Proposed  Far West  48.476139 -0.114082  
-129  Proposed  Far West  38.001300 -0.114346  
-132  Proposed     South  50.365251  0.064977  
-159  Proposed     South  43.729894  0.066295  
-160  Proposed     South  42.035862  0.064148  
-207  Existing     South  17.529914  0.067372  
-208  Proposed  Far West   1.382761 -0.113692  
-250  Existing  Far West   7.449225  0.087061  
+        Group    Region     error  
+14   Proposed  Far West -0.116804  
+46   Proposed  Far West -0.113083  
+62   Existing  Far West  0.075342  
+63   Proposed  Far West -0.135561  
+66   Proposed     South  0.065761  
+70   Proposed     South  0.066130  
+102  Proposed  Far West -0.114559  
+124  Proposed  Far West -0.114253  
+125  Proposed  Far West -0.114082  
+129  Proposed  Far West -0.114346  
+132  Proposed     South  0.064977  
+159  Proposed     South  0.066295  
+160  Proposed     South  0.064148  
+207  Existing     South  0.067372  
+208  Proposed  Far West -0.113692  
+250  Existing  Far West  0.087061  
 outliers for 19-20(hr) 
                    Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 61                     Darmstadt  30.8975 -100.5385    200.90             88   
@@ -701,23 +701,23 @@ outliers for 19-20(hr)
 250         West Texas Windplant  31.7586 -104.7420     50.00            110   
 258                 Wilson Ranch  30.8975 -100.5385    199.50             88   
 
-        Group    Region        std     error  
-61   Proposed  Far West  33.079903 -0.106147  
-62   Existing  Far West   5.389931  0.088411  
-66   Proposed     South  37.700915  0.078200  
-68   Proposed  Far West  54.960095 -0.105453  
-70   Proposed     South  55.317132  0.079562  
-124  Proposed  Far West  47.974713 -0.105130  
-125  Proposed  Far West  48.476139 -0.106147  
-129  Proposed  Far West  38.001300 -0.105550  
-132  Proposed     South  50.365251  0.078910  
-159  Proposed     South  43.729894  0.078641  
-160  Proposed     South  42.035862  0.077589  
-171  Proposed  Far West  51.688384 -0.113360  
-208  Proposed  Far West   1.382761 -0.105428  
-249  Proposed     South  44.761925  0.077431  
-250  Existing  Far West   7.449225  0.099196  
-258  Proposed  Far West  33.411209 -0.106467  
+        Group    Region     error  
+61   Proposed  Far West -0.106147  
+62   Existing  Far West  0.088411  
+66   Proposed     South  0.078200  
+68   Proposed  Far West -0.105453  
+70   Proposed     South  0.079562  
+124  Proposed  Far West -0.105130  
+125  Proposed  Far West -0.106147  
+129  Proposed  Far West -0.105550  
+132  Proposed     South  0.078910  
+159  Proposed     South  0.078641  
+160  Proposed     South  0.077589  
+171  Proposed  Far West -0.113360  
+208  Proposed  Far West -0.105428  
+249  Proposed     South  0.077431  
+250  Existing  Far West  0.099196  
+258  Proposed  Far West -0.106467  
 outliers for 20-21(hr) 
                Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 61                 Darmstadt  30.8975 -100.5385    200.90             88   
@@ -737,23 +737,23 @@ outliers for 20-21(hr)
 250     West Texas Windplant  31.7586 -104.7420     50.00            110   
 258             Wilson Ranch  30.8975 -100.5385    199.50             88   
 
-        Group    Region        std     error  
-61   Proposed  Far West  33.079903 -0.104098  
-66   Proposed     South  37.700915  0.100760  
-68   Proposed  Far West  54.960095 -0.087378  
-70   Proposed     South  55.317132  0.101250  
-96   Proposed     South   9.281162  0.100374  
-124  Proposed  Far West  47.974713 -0.086145  
-125  Proposed  Far West  48.476139 -0.086789  
-129  Proposed  Far West  38.001300 -0.085947  
-132  Proposed     South  50.365251  0.101692  
-159  Proposed     South  43.729894  0.100778  
-160  Proposed     South  42.035862  0.101136  
-171  Proposed  Far West  51.688384 -0.101936  
-208  Proposed  Far West   1.382761 -0.087089  
-249  Proposed     South  44.761925  0.100641  
-250  Existing  Far West   7.449225  0.103955  
-258  Proposed  Far West  33.411209 -0.105470  
+        Group    Region     error  
+61   Proposed  Far West -0.104098  
+66   Proposed     South  0.100760  
+68   Proposed  Far West -0.087378  
+70   Proposed     South  0.101250  
+96   Proposed     South  0.100374  
+124  Proposed  Far West -0.086145  
+125  Proposed  Far West -0.086789  
+129  Proposed  Far West -0.085947  
+132  Proposed     South  0.101692  
+159  Proposed     South  0.100778  
+160  Proposed     South  0.101136  
+171  Proposed  Far West -0.101936  
+208  Proposed  Far West -0.087089  
+249  Proposed     South  0.100641  
+250  Existing  Far West  0.103955  
+258  Proposed  Far West -0.105470  
 outliers for 21-22(hr) 
                 Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 61                  Darmstadt  30.8975 -100.5385    200.90             88   
@@ -773,23 +773,23 @@ outliers for 21-22(hr)
 249         West Raymond Wind  26.4706  -97.6732    239.80            103   
 258              Wilson Ranch  30.8975 -100.5385    199.50             88   
 
-        Group    Region        std     error  
-61   Proposed  Far West  33.079903 -0.094950  
-66   Proposed     South  37.700915  0.118638  
-70   Proposed     South  55.317132  0.117658  
-91   Proposed      West  88.291738 -0.064562  
-95   Proposed     South  34.639036  0.113735  
-96   Proposed     South   9.281162  0.114709  
-102  Proposed  Far West  30.491490 -0.064434  
-124  Proposed  Far West  47.974713 -0.064372  
-132  Proposed     South  50.365251  0.118007  
-159  Proposed     South  43.729894  0.117731  
-160  Proposed     South  42.035862  0.117674  
-171  Proposed  Far West  51.688384 -0.083095  
-208  Proposed  Far West   1.382761 -0.065386  
-247  Proposed      West  24.401315 -0.071873  
-249  Proposed     South  44.761925  0.118213  
-258  Proposed  Far West  33.411209 -0.095546  
+        Group    Region     error  
+61   Proposed  Far West -0.094950  
+66   Proposed     South  0.118638  
+70   Proposed     South  0.117658  
+91   Proposed      West -0.064562  
+95   Proposed     South  0.113735  
+96   Proposed     South  0.114709  
+102  Proposed  Far West -0.064434  
+124  Proposed  Far West -0.064372  
+132  Proposed     South  0.118007  
+159  Proposed     South  0.117731  
+160  Proposed     South  0.117674  
+171  Proposed  Far West -0.083095  
+208  Proposed  Far West -0.065386  
+247  Proposed      West -0.071873  
+249  Proposed     South  0.118213  
+258  Proposed  Far West -0.095546  
 outliers for 22-23(hr) 
                 Facility.Name     lati     longi  Capacity  NumberOfUnits  \
 43       Canadian Breaks Wind  35.4050 -102.6029    210.00             92   
@@ -809,23 +809,23 @@ outliers for 22-23(hr)
 256             Wildrose Wind  34.5304 -101.7350    302.50            128   
 258              Wilson Ranch  30.8975 -100.5385    199.50             88   
 
-        Group    Region        std     error  
-43   Proposed     North  41.786995 -0.048894  
-61   Proposed  Far West  33.079903 -0.073704  
-66   Proposed     South  37.700915  0.123442  
-70   Proposed     South  55.317132  0.123787  
-91   Proposed      West  88.291738 -0.044882  
-95   Proposed     South  34.639036  0.119660  
-96   Proposed     South   9.281162  0.119230  
-130  Existing  Far West  23.858549 -0.045940  
-132  Proposed     South  50.365251  0.122767  
-159  Proposed     South  43.729894  0.122897  
-160  Proposed     South  42.035862  0.122631  
-171  Proposed  Far West  51.688384 -0.049789  
-247  Proposed      West  24.401315 -0.053731  
-249  Proposed     South  44.761925  0.122605  
-256  Proposed     North  60.437500 -0.045568  
-258  Proposed  Far West  33.411209 -0.076481  
+        Group    Region     error  
+43   Proposed     North -0.048894  
+61   Proposed  Far West -0.073704  
+66   Proposed     South  0.123442  
+70   Proposed     South  0.123787  
+91   Proposed      West -0.044882  
+95   Proposed     South  0.119660  
+96   Proposed     South  0.119230  
+130  Existing  Far West -0.045940  
+132  Proposed     South  0.122767  
+159  Proposed     South  0.122897  
+160  Proposed     South  0.122631  
+171  Proposed  Far West -0.049789  
+247  Proposed      West -0.053731  
+249  Proposed     South  0.122605  
+256  Proposed     North -0.045568  
+258  Proposed  Far West -0.076481  
 outliers for 23-24(hr) 
                 Facility.Name       lati       longi  Capacity  NumberOfUnits  \
 30    Broadview Energy JN LLC  34.801400 -102.996000    108.00             36   
@@ -845,20 +845,20 @@ outliers for 23-24(hr)
 256             Wildrose Wind  34.530400 -101.735000    302.50            128   
 258              Wilson Ranch  30.897500 -100.538500    199.50             88   
 
-        Group    Region        std     error  
-30   Existing     North  16.411917 -0.050720  
-43   Proposed     North  41.786995 -0.063969  
-61   Proposed  Far West  33.079903 -0.056942  
-66   Proposed     South  37.700915  0.124007  
-70   Proposed     South  55.317132  0.127489  
-96   Proposed     South   9.281162  0.121343  
-116  Existing     North  40.044142 -0.041249  
-132  Proposed     South  50.365251  0.123770  
-159  Proposed     South  43.729894  0.124945  
-160  Proposed     South  42.035862  0.123642  
-224  Proposed     South  39.174946  0.121466  
-235  Proposed     North  40.815504 -0.038628  
-247  Proposed      West  24.401315 -0.041594  
-249  Proposed     South  44.761925  0.123528  
-256  Proposed     North  60.437500 -0.050962  
-258  Proposed  Far West  33.411209 -0.061503  
+        Group    Region     error  
+30   Existing     North -0.050720  
+43   Proposed     North -0.063969  
+61   Proposed  Far West -0.056942  
+66   Proposed     South  0.124007  
+70   Proposed     South  0.127489  
+96   Proposed     South  0.121343  
+116  Existing     North -0.041249  
+132  Proposed     South  0.123770  
+159  Proposed     South  0.124945  
+160  Proposed     South  0.123642  
+224  Proposed     South  0.121466  
+235  Proposed     North -0.038628  
+247  Proposed      West -0.041594  
+249  Proposed     South  0.123528  
+256  Proposed     North -0.050962  
+258  Proposed  Far West -0.061503  
