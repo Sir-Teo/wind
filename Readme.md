@@ -7,6 +7,6 @@
 - at night there is less bias
 - negative bias in the south and positive bias in the north
 
-![Violin plot of bias at each hour](./plots/violin_and_box_std_of_bias_1hr.png)
+![Violin plot of bias at each hour](./plots/violin_and_box_bias_1hr.png)
 - two outliers at the bottom are Canadian Breaks Wind and Desert Sky repower
 
