@@ -1,4 +1,4 @@
-# Wind Farms
+# Wind Farms Observations
 
 ## Bias
 
@@ -24,3 +24,12 @@
 ![Violin plot of std of bias at each hour](./plots/violin_and_box_std_of_bias_1hr.png)
 
 - low std in the afternoon and the evening
+
+![Bump Chart of std of bias at each hour](./plots/std_bumpchart_all_farm_all_time.png)
+
+## 95 percentile - mean (bias)
+
+![95 percentile - mean (bias) at 24 Hours interval](./plots/bias_95quantile_minus_mean_1hr.png)
+
+- larger in the afternoon until midnight
+
