@@ -44,6 +44,10 @@
 
 ![Bump Chart of std of bias at each hour](./plots/std_bumpchart_all_farm_all_time.png)
 
+| 0-1 | 1-2 | 2-3 | 3-4 | 4-5 | 5-6 | 6-7 | 7-8 | 8-9 | 9-10 | 10-11 | 11-12 | 12-13 | 13-14 | 14-15 | 15-16 | 16-17 | 17-18 | 18-19 | 19-20 | 20-21 | 21-22 | 22-23 | 23-24 |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|0.842 |0.871 |0.879 |0.910 |0.918 |0.918 |0.928 |0.918 |0.916 |0.916 |0.894 |0.891 |0.878 |0.833 |0.808 |0.825 |0.832 |0.853 |0.863 |0.881 |0.865 |0.846 |0.883 |
+
 - low std farms tend to stay low, high std farms tend to stay high
 - crossing is less in the morning
 
@@ -78,3 +82,7 @@
 - continuity
 - larger in the afternoon until midnight
 
+kendall rank corr coeff
+bump chart quantile and std
+capacity vs unnormalized std
+if the quantile is the same
