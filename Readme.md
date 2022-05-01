@@ -113,7 +113,10 @@
 
 - Average kendall's tau is 0.8603591286117944
 
-In general, across all regions, kendall's $\tau$ is lower is the afternoon
+### Conclusion for these bump charts
+
+- In general, across all regions, kendall's $\tau$ is lower is the afternoon
+- North Central Farms and West Farms have the highest average kendall's tau, while the South Farms have the lowest average kendall's tau.
 
 ## 95 percentile - mean (bias)
 
@@ -128,6 +131,11 @@ In general, across all regions, kendall's $\tau$ is lower is the afternoon
 - there is a strong correlation ($r^2 = 0.897$) between capacity and unormalized std.
 - Wind Farms at the south tend to have low unnormalized std/capacity ratio
 
+## capacity vs unnormalized error
+
+![capacity vs unnormalized error](./plots/capacity_vs_unnormerror.png)
+
+- the correlation is small ($r^2 = 0.1294979748653919$) so they are not quite correlated
 
 bump chart quantile and std
 if the quantile is the same
