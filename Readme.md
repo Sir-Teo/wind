@@ -13,7 +13,7 @@
 - at night there is less bias
 - negative bias in the south and north. positive bias in the middle
 - **least bias** around 17:00-18:00
-- [outliers of the bias](bias_outliers.txt)
+- [outliers of the bias](./bias_outliers.txt)
 
 ### Violin plot of bias at each hour
 
@@ -34,7 +34,7 @@
 ![std of bias at each hour](./plots/std_of_bias_1hr.png)
 
 - at the sourth std lower from midnight to noon
-- [outliers of std of bias](std_outliers.txt)
+- [outliers of std of bias](./std_outliers.txt)
 
 ### Violin plot of std of bias at each hour
 
@@ -125,7 +125,7 @@
 ![95 percentile - mean (bias) at 24 Hours interval](./plots/bias_95quantile_minus_mean_1hr.png)
 
 - larger in the afternoon until midnight
-- [outliers]((95 quantile - mean) outliers.txt)
+- [outliers](./(95 quantile - mean) outliers.txt)
 
 ## capacity vs unnormalized std
 
