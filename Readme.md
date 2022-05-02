@@ -125,7 +125,7 @@
 ![95 percentile - mean (bias) at 24 Hours interval](./plots/bias_95quantile_minus_mean_1hr.png)
 
 - larger in the afternoon until midnight
-- [outliers](./(95 quantile - mean) outliers.txt)
+- [outliers](./quantile_outliers.txt)
 
 ## capacity vs unnormalized std
 
