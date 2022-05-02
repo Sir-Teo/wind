@@ -138,4 +138,5 @@
 
 ![capacity vs unnormalized error](./plots/capacity_vs_unnormerror.png)
 
-- the correlation is small ($r^2 = 0.1294979748653919$) so they are not quite correlated
+- the correlation is small ($r^2 = 0.1294979748653919$) so they are not quite correlated in general
+- the south has higher correlation
