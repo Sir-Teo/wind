@@ -125,7 +125,7 @@
 ![95 percentile - mean (bias) at 24 Hours interval](./plots/bias_95quantile_minus_mean_1hr.png)
 
 - larger in the afternoon until midnight
-- [outliers](./quantile_outliers.txt)
+- [outliers](./quantile_outliers.txt): **Desert Sky** 
 
 ## capacity vs unnormalized std
 
@@ -139,6 +139,3 @@
 ![capacity vs unnormalized error](./plots/capacity_vs_unnormerror.png)
 
 - the correlation is small ($r^2 = 0.1294979748653919$) so they are not quite correlated
-
-bump chart quantile and std
-if the quantile is the same
