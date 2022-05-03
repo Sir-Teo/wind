@@ -13,7 +13,6 @@
 - at night there is less bias
 - negative bias in the south and north. positive bias in the middle
 - **least bias** around 17:00-18:00
-- [outliers of the bias](./bias_outliers.txt)
 
 ### Violin plot of bias at each hour
 
@@ -34,7 +33,6 @@
 ![std of bias at each hour](./plots/std_of_bias_1hr.png)
 
 - at the sourth std lower from midnight to noon
-- [outliers of std of bias](./std_outliers.txt)
 
 ### Violin plot of std of bias at each hour
 
@@ -125,7 +123,6 @@
 ![95 percentile - mean (bias) at 24 Hours interval](./plots/bias_95quantile_minus_mean_1hr.png)
 
 - larger in the afternoon until midnight
-- [outliers](./quantile_outliers.txt): **Desert Sky** 
 
 ## capacity vs unnormalized std
 
@@ -140,3 +137,24 @@
 
 - the correlation is small ($r^2 = 0.1294979748653919$) so they are not quite correlated in general
 - the south has higher correlation
+
+## Outliers
+
+Using "Tukey's fences," we define the outliers to be any oberservation outside the range
+
+$$
+\left[Q_{1}-k\left(Q_{3}-Q_{1}\right), Q_{3}+k\left(Q_{3}-Q_{1}\right)\right]
+$$
+
+Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 across all the analysis
+
+### [outliers of bias](./bias_outliers.txt)
+
+### [outliers of std of bias](./std_outliers.txt)
+
+### [outliers of quantile difference](./quantile_outliers.txt)
+
+
+quantile vs std bumpchart
+outlier 
+LOESS/cutting/spline

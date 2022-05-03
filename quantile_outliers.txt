@@ -1,690 +1,164 @@
 (95 quantile - mean) outliers for 0-1(hr) 
-                         Facility.Name      lati     longi  Capacity  \
-43                Canadian Breaks Wind  35.40500 -102.6029     210.0   
-52                        Chalupa Wind  26.12930  -97.5292     174.0   
-74                       Espiritu Wind  26.12930  -97.5292     148.5   
-106                    Hidalgo II Wind  26.39680  -98.1811      51.0   
-128                    La Joya II Wind  26.39680  -98.1811     236.9   
-143                        Los Vientos  26.40952  -98.2244    1190.0   
-172                  Palmas Altas Wind  26.12930  -97.5292     144.9   
-259  Wind Power Partners '94 Wind Farm  31.35080 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-43              92  Proposed     North -0.122020  0.198986   
-52              78  Proposed     South  0.049326  0.179122   
-74              68  Proposed     South  0.049972  0.181746   
-106             30  Proposed     South  0.172932  0.192910   
-128            102  Proposed     South  0.172874  0.193648   
-143            426  Existing     South  0.129369  0.144679   
-172             66  Proposed     South  0.050641  0.179314   
-259            109  Existing  Far West -0.078827  0.139452   
-
-     95 percentile error  quantile difference  
-43             -0.144359             0.022339  
-52              0.039269             0.010057  
-74              0.025094             0.024878  
-106             0.159688             0.013244  
-128             0.161598             0.011275  
-143             0.123119             0.006251  
-172             0.043943             0.006697  
-259            -0.123236             0.044409  
-(95 quantile - mean) outliers for 0-1(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                         Sweetwater  32.3681 -100.3330     764.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-63              12  Proposed  Far West -0.341602  0.268860   
-99             146  Proposed  Far West -0.174463  0.196014   
-111             27  Proposed      West  0.278620  0.200448   
-193            166  Existing      West  0.210421  0.153239   
-220             44  Existing      West  0.221743  0.153523   
-227            392  Existing      West  0.205664  0.152834   
-236            127  Proposed      West  0.280829  0.199937   
-259            109  Existing  Far West -0.166459  0.139452   
-
-     95 percentile error  quantile difference  
-63             -0.569321             0.227720  
-99             -0.245407             0.070944  
-111             0.194037             0.084583  
-193             0.123905             0.086516  
-220             0.128565             0.093178  
-227             0.126582             0.079082  
-236             0.203410             0.077419  
-259            -0.289888             0.123429  
-(95 quantile - mean) outliers for 0-1(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-62              38  Existing  Far West -0.083492  0.145674   
-63              12  Proposed  Far West -0.400639  0.268860   
-99             146  Proposed  Far West -0.125312  0.196014   
-111             27  Proposed      West  0.158113  0.200448   
-193            166  Existing      West  0.093669  0.153239   
-220             44  Existing      West  0.104321  0.153523   
-236            127  Proposed      West  0.159172  0.199937   
-259            109  Existing  Far West -0.141436  0.139452   
-
-     95 percentile error  quantile difference  
-62             -0.163885             0.080392  
-63             -0.609686             0.209047  
-99             -0.210414             0.085103  
-111             0.090256             0.067858  
-193             0.041027             0.052643  
-220             0.037141             0.067179  
-236             0.092060             0.067112  
-259            -0.303432             0.161996  
-(95 quantile - mean) outliers for 0-1(hr) 
-                   Facility.Name      lati     longi  Capacity  NumberOfUnits  \
-3             Anacacho Wind Farm  29.19220 -100.1920     129.0             55   
-14                  Barrow Ranch  32.30500 -102.6378     160.0             72   
-47               Capricorn Ridge  31.84898 -100.9368     920.0            435   
-137                Loma Pinta II  28.34510  -99.0997     201.6             88   
-138              Loma Pinta Wind  28.34510  -99.0997     200.0             88   
-180  Panther Creek III Wind Farm  31.96860  -99.9019     260.0            133   
-211                      Sendero  27.22860  -98.9381     102.0             39   
-237             Torrecillas Wind  27.76110  -99.3316     300.5            127   
-
-        Group    Region     error       std  95 percentile error  \
-3    Existing      West -0.009034  0.100169             0.033537   
-14   Proposed  Far West -0.116804  0.195064            -0.069063   
-47   Existing  Far West -0.077661  0.134520            -0.040947   
-137  Proposed     South -0.026291  0.141333             0.009897   
-138  Proposed     South -0.025874  0.142218             0.016800   
-180  Existing      West -0.039058  0.149816            -0.002786   
-211  Existing     South -0.047766  0.133445             0.000134   
-237  Proposed     South -0.062250  0.158272            -0.050343   
-
-     quantile difference  
-3              -0.042571  
-14             -0.047741  
-47             -0.036714  
-137            -0.036188  
-138            -0.042674  
-180            -0.036273  
-211            -0.047900  
-237            -0.011907  
+          Facility.Name  quantile difference
+14         Barrow Ranch            -0.200634
+63   Desert Sky repower            -0.321667
+73              ERAWIND            -0.179679
+86       Goodnight Wind            -0.162311
+87    Gopher Creek Wind            -0.188207
+91     Grape Creek Wind            -0.165330
+137       Loma Pinta II            -0.188573
+138     Loma Pinta Wind            -0.203962
 (95 quantile - mean) outliers for 1-2(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-23                      Blue Summit II  34.0807  -99.2410    102.00   
-62         Delaware Mountain Wind Farm  31.6708 -104.7390     37.00   
-99                     Gusty Hill Wind  31.4472 -104.5173    350.00   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440    325.00   
-230                       S_Hills Wind  33.6165  -99.2135     30.24   
-239                      Trent repower  32.3035 -100.4061      6.40   
-250               West Texas Windplant  31.7586 -104.7420     50.00   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430     52.00   
-
-     NumberOfUnits     Group    Region     error       std  \
-23              49  Proposed     North  0.213967  0.193794   
-62              38  Existing  Far West -0.086378  0.145674   
-99             146  Proposed  Far West -0.128828  0.196014   
-193            166  Existing      West  0.169266  0.153239   
-230             21  Proposed     North  0.232477  0.197957   
-239             12  Proposed      West  0.222022  0.197701   
-250            110  Existing  Far West -0.062333  0.148984   
-259            109  Existing  Far West -0.126542  0.139452   
-
-     95 percentile error  quantile difference  
-23              0.179284             0.034683  
-62             -0.185909             0.099532  
-99             -0.271698             0.142870  
-193             0.138693             0.030573  
-230             0.201800             0.030677  
-239             0.192127             0.029895  
-250            -0.160667             0.098334  
-259            -0.297690             0.171148  
-(95 quantile - mean) outliers for 1-2(hr) 
-                          Facility.Name     lati     longi  Capacity  \
-40   Callahan Divide Wind Energy Center  32.3106 -100.1490     149.0   
-63                   Desert Sky repower  30.7811 -102.7236       7.2   
-111               Horse13 CallD repower  32.3015  -99.8901      44.0   
-193        Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220          South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                          Sweetwater  32.3681 -100.3330     764.0   
-236                          Tiger Wind  32.3016  -99.8902     300.0   
-259   Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-40              76  Existing      West  0.194291  0.156225   
-63              12  Proposed  Far West -0.375675  0.268860   
-111             27  Proposed      West  0.251048  0.200448   
-193            166  Existing      West  0.187818  0.153239   
-220             44  Existing      West  0.197605  0.153523   
-227            392  Existing      West  0.184077  0.152834   
-236            127  Proposed      West  0.253228  0.199937   
-259            109  Existing  Far West -0.174212  0.139452   
-
-     95 percentile error  quantile difference  
-40              0.118704             0.075586  
-63             -0.646304             0.270629  
-111             0.165235             0.085812  
-193             0.107240             0.080578  
-220             0.106012             0.091592  
-227             0.102742             0.081335  
-236             0.167761             0.085467  
-259            -0.289952             0.115740  
-(95 quantile - mean) outliers for 1-2(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-62              38  Existing  Far West -0.069263  0.145674   
-63              12  Proposed  Far West -0.358958  0.268860   
-99             146  Proposed  Far West -0.128539  0.196014   
-111             27  Proposed      West  0.115502  0.200448   
-193            166  Existing      West  0.056599  0.153239   
-220             44  Existing      West  0.067363  0.153523   
-236            127  Proposed      West  0.116386  0.199937   
-259            109  Existing  Far West -0.139843  0.139452   
-
-     95 percentile error  quantile difference  
-62             -0.093608             0.024345  
-63             -0.433225             0.074268  
-99             -0.206978             0.078439  
-111             0.090026             0.025476  
-193             0.038196             0.018403  
-220             0.043375             0.023988  
-236             0.090368             0.026018  
-259            -0.294099             0.154255  
-(95 quantile - mean) outliers for 1-2(hr) 
-                   Facility.Name      lati      longi  Capacity  \
-3             Anacacho Wind Farm  29.19220 -100.19200     129.0   
-47               Capricorn Ridge  31.84898 -100.93680     920.0   
-115                     Javelina  27.42640  -98.94805     263.0   
-137                Loma Pinta II  28.34510  -99.09970     201.6   
-138              Loma Pinta Wind  28.34510  -99.09970     200.0   
-180  Panther Creek III Wind Farm  31.96860  -99.90190     260.0   
-211                      Sendero  27.22860  -98.93810     102.0   
-237             Torrecillas Wind  27.76110  -99.33160     300.5   
-
-     NumberOfUnits     Group    Region     error       std  \
-3               55  Existing      West -0.006877  0.100169   
-47             435  Existing  Far West -0.068616  0.134520   
-115            102  Existing     South -0.049869  0.139965   
-137             88  Proposed     South -0.029348  0.141333   
-138             88  Proposed     South -0.027786  0.142218   
-180            133  Existing      West -0.036378  0.149816   
-211             39  Existing     South -0.049946  0.133445   
-237            127  Proposed     South -0.069858  0.158272   
-
-     95 percentile error  quantile difference  
-3               0.001812            -0.008689  
-47             -0.031434            -0.037182  
-115            -0.034515            -0.015353  
-137            -0.049457             0.020109  
-138            -0.026503            -0.001283  
-180            -0.011050            -0.025328  
-211            -0.046320            -0.003625  
-237            -0.103730             0.033872  
+                         Facility.Name  quantile difference
+3                   Anacacho Wind Farm            -0.166878
+7                       Armstrong Wind            -0.189727
+86                      Goodnight Wind            -0.187184
+89            Grandview 4 Phase A Wind            -0.157207
+91                    Grape Creek Wind            -0.138512
+99                     Gusty Hill Wind             0.142870
+137                      Loma Pinta II            -0.139742
+138                    Loma Pinta Wind            -0.147937
+175                   Panhandle Wind 3            -0.141874
+259  Wind Power Partners '94 Wind Farm             0.171148
 (95 quantile - mean) outliers for 2-3(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-23                      Blue Summit II  34.0807  -99.2410     102.0   
-62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
-182                   Pease River Wind  34.2903  -99.7457     301.4   
-239                      Trent repower  32.3035 -100.4061       6.4   
-250               West Texas Windplant  31.7586 -104.7420      50.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-23              49  Proposed     North  0.247086  0.193794   
-62              38  Existing  Far West -0.110664  0.145674   
-63              12  Proposed  Far West -0.192077  0.268860   
-99             146  Proposed  Far West -0.153308  0.196014   
-182            127  Proposed     North  0.254268  0.203735   
-239             12  Proposed      West  0.271185  0.197701   
-250            110  Existing  Far West -0.081604  0.148984   
-259            109  Existing  Far West -0.147642  0.139452   
-
-     95 percentile error  quantile difference  
-23              0.170541             0.076544  
-62             -0.250573             0.139909  
-63             -0.346545             0.154468  
-99             -0.320815             0.167506  
-182             0.168220             0.086048  
-239             0.188952             0.082233  
-250            -0.209292             0.127688  
-259            -0.380838             0.233196  
-(95 quantile - mean) outliers for 2-3(hr) 
-                          Facility.Name     lati     longi  Capacity  \
-40   Callahan Divide Wind Energy Center  32.3106 -100.1490     149.0   
-63                   Desert Sky repower  30.7811 -102.7236       7.2   
-111               Horse13 CallD repower  32.3015  -99.8901      44.0   
-193        Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220          South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                          Sweetwater  32.3681 -100.3330     764.0   
-236                          Tiger Wind  32.3016  -99.8902     300.0   
-259   Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-40              76  Existing      West  0.175053  0.156225   
-63              12  Proposed  Far West -0.403033  0.268860   
-111             27  Proposed      West  0.225886  0.200448   
-193            166  Existing      West  0.167185  0.153239   
-220             44  Existing      West  0.172766  0.153523   
-227            392  Existing      West  0.161991  0.152834   
-236            127  Proposed      West  0.227326  0.199937   
-259            109  Existing  Far West -0.177185  0.139452   
-
-     95 percentile error  quantile difference  
-40              0.106224             0.068829  
-63             -0.666135             0.263101  
-111             0.155944             0.069942  
-193             0.082518             0.084668  
-220             0.096116             0.076650  
-227             0.090433             0.071557  
-236             0.144052             0.083274  
-259            -0.303923             0.126737  
-(95 quantile - mean) outliers for 2-3(hr) 
-                          Facility.Name     lati     longi  Capacity  \
-40   Callahan Divide Wind Energy Center  32.3106 -100.1490     149.0   
-63                   Desert Sky repower  30.7811 -102.7236       7.2   
-99                      Gusty Hill Wind  31.4472 -104.5173     350.0   
-193        Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220          South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                          Sweetwater  32.3681 -100.3330     764.0   
-250                West Texas Windplant  31.7586 -104.7420      50.0   
-259   Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-40              76  Existing      West  0.056432  0.156225   
-63              12  Proposed  Far West -0.309003  0.268860   
-99             146  Proposed  Far West -0.118559  0.196014   
-193            166  Existing      West  0.020497  0.153239   
-220             44  Existing      West  0.021876  0.153523   
-227            392  Existing      West  0.012475  0.152834   
-250            110  Existing  Far West -0.022671  0.148984   
-259            109  Existing  Far West -0.131305  0.139452   
-
-     95 percentile error  quantile difference  
-40              0.091097            -0.034665  
-63             -0.341275             0.032273  
-99             -0.152163             0.033604  
-193             0.045938            -0.025442  
-220             0.052041            -0.030165  
-227             0.049679            -0.037204  
-250             0.015703            -0.038374  
-259            -0.226944             0.095639  
-(95 quantile - mean) outliers for 2-3(hr) 
-          Facility.Name     lati      longi  Capacity  NumberOfUnits  \
-3    Anacacho Wind Farm  29.1922 -100.19200     129.0             55   
-50           Cedro Hill  27.5633  -98.91720     196.0            100   
-115            Javelina  27.4264  -98.94805     263.0            102   
-137       Loma Pinta II  28.3451  -99.09970     201.6             88   
-138     Loma Pinta Wind  28.3451  -99.09970     200.0             88   
-211             Sendero  27.2286  -98.93810     102.0             39   
-237    Torrecillas Wind  27.7611  -99.33160     300.5            127   
-253          White Tail  27.4906  -98.98580     119.0             57   
-
-        Group Region     error       std  95 percentile error  \
-3    Existing   West  0.000005  0.100169             0.009595   
-50   Existing  South -0.032296  0.142238            -0.016409   
-115  Existing  South -0.047359  0.139965            -0.058526   
-137  Proposed  South -0.028369  0.141333            -0.066454   
-138  Proposed  South -0.027565  0.142218            -0.052081   
-211  Existing  South -0.046857  0.133445            -0.064086   
-237  Proposed  South -0.065549  0.158272            -0.124656   
-253  Existing  South -0.043136  0.145126            -0.027257   
-
-     quantile difference  
-3              -0.009590  
-50             -0.015888  
-115             0.011167  
-137             0.038085  
-138             0.024516  
-211             0.017229  
-237             0.059108  
-253            -0.015878  
+                         Facility.Name  quantile difference
+7                       Armstrong Wind            -0.196958
+86                      Goodnight Wind            -0.216324
+89            Grandview 4 Phase A Wind            -0.166584
+175                   Panhandle Wind 3            -0.182504
+259  Wind Power Partners '94 Wind Farm             0.233196
 (95 quantile - mean) outliers for 3-4(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-99                     Gusty Hill Wind  31.4472 -104.5173     350.0   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-239                      Trent repower  32.3035 -100.4061       6.4   
-250               West Texas Windplant  31.7586 -104.7420      50.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-62              38  Existing  Far West -0.121519  0.145674   
-63              12  Proposed  Far West -0.232367  0.268860   
-99             146  Proposed  Far West -0.162828  0.196014   
-111             27  Proposed      West  0.300352  0.200448   
-236            127  Proposed      West  0.302386  0.199937   
-239             12  Proposed      West  0.286601  0.197701   
-250            110  Existing  Far West -0.087637  0.148984   
-259            109  Existing  Far West -0.154605  0.139452   
-
-     95 percentile error  quantile difference  
-62             -0.225118             0.103599  
-63             -0.442280             0.209913  
-99             -0.320022             0.157194  
-111             0.221279             0.079073  
-236             0.220330             0.082055  
-239             0.188952             0.097649  
-250            -0.182347             0.094710  
-259            -0.374554             0.219949  
-(95 quantile - mean) outliers for 3-4(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-113      Inadale (Roscoe IV) Wind Farm  32.3467 -100.3790     257.0   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                         Sweetwater  32.3681 -100.3330     764.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-63              12  Proposed  Far West -0.417265  0.268860   
-111             27  Proposed      West  0.206369  0.200448   
-113            197  Existing      West  0.159452  0.158561   
-193            166  Existing      West  0.151813  0.153239   
-220             44  Existing      West  0.156613  0.153523   
-227            392  Existing      West  0.145892  0.152834   
-236            127  Proposed      West  0.207442  0.199937   
-259            109  Existing  Far West -0.174125  0.139452   
-
-     95 percentile error  quantile difference  
-63             -0.649905             0.232640  
-111             0.137168             0.069201  
-113             0.099492             0.059959  
-193             0.062957             0.088856  
-220             0.078207             0.078406  
-227             0.079620             0.066273  
-236             0.127427             0.080015  
-259            -0.289302             0.115178  
-(95 quantile - mean) outliers for 3-4(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-14                        Barrow Ranch  32.3050 -102.6378     160.0   
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-108        High Lonesome Wind Phase II  30.7230 -101.4121      50.6   
-112                  Impala Flats Wind  33.1768 -101.8161     282.0   
-144                 Lubbock Wind Ranch  33.5694 -101.7620      16.0   
-192             PYCO Soaring Wind Farm  33.5525 -101.8000      13.0   
-205                     Sage Draw Wind  33.1768 -101.8161     338.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-14              72  Proposed  Far West -0.171218  0.195064   
-63              12  Proposed  Far West -0.269828  0.268860   
-108             29  Proposed  Far West -0.075237  0.173394   
-112            120  Proposed     North -0.117773  0.204764   
-144              5  Existing     North -0.095941  0.152821   
-192             10  Existing     North -0.092939  0.148812   
-205            142  Proposed     North -0.116145  0.204138   
-259            109  Existing  Far West -0.110446  0.139452   
-
-     95 percentile error  quantile difference  
-14             -0.125625            -0.045593  
-63             -0.253911            -0.015917  
-108            -0.008917            -0.066320  
-112            -0.093154            -0.024619  
-144            -0.030418            -0.065523  
-192            -0.041216            -0.051723  
-205            -0.094623            -0.021522  
-259            -0.114778             0.004332  
-(95 quantile - mean) outliers for 3-4(hr) 
-          Facility.Name     lati      longi  Capacity  NumberOfUnits  \
-3    Anacacho Wind Farm  29.1922 -100.19200     129.0             55   
-50           Cedro Hill  27.5633  -98.91720     196.0            100   
-115            Javelina  27.4264  -98.94805     263.0            102   
-137       Loma Pinta II  28.3451  -99.09970     201.6             88   
-138     Loma Pinta Wind  28.3451  -99.09970     200.0             88   
-211             Sendero  27.2286  -98.93810     102.0             39   
-237    Torrecillas Wind  27.7611  -99.33160     300.5            127   
-253          White Tail  27.4906  -98.98580     119.0             57   
-
-        Group Region     error       std  95 percentile error  \
-3    Existing   West  0.007549  0.100169             0.014677   
-50   Existing  South -0.021486  0.142238            -0.005591   
-115  Existing  South -0.036565  0.139965            -0.036553   
-137  Proposed  South -0.022096  0.141333            -0.050456   
-138  Proposed  South -0.023636  0.142218            -0.062973   
-211  Existing  South -0.036973  0.133445            -0.050563   
-237  Proposed  South -0.055025  0.158272            -0.113706   
-253  Existing  South -0.033869  0.145126            -0.030524   
-
-     quantile difference  
-3              -0.007129  
-50             -0.015895  
-115            -0.000013  
-137             0.028359  
-138             0.039338  
-211             0.013590  
-237             0.058681  
-253            -0.003345  
+     Facility.Name  quantile difference
+7   Armstrong Wind            -0.210832
+86  Goodnight Wind            -0.222487
 (95 quantile - mean) outliers for 4-5(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-63                  Desert Sky repower  30.7811 -102.7236      7.20   
-99                     Gusty Hill Wind  31.4472 -104.5173    350.00   
-111              Horse13 CallD repower  32.3015  -99.8901     44.00   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360    132.00   
-227                         Sweetwater  32.3681 -100.3330    764.00   
-230                       S_Hills Wind  33.6165  -99.2135     30.24   
-236                         Tiger Wind  32.3016  -99.8902    300.00   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430     52.00   
-
-     NumberOfUnits     Group    Region     error       std  \
-63              12  Proposed  Far West -0.270763  0.268860   
-99             146  Proposed  Far West -0.173134  0.196014   
-111             27  Proposed      West  0.309167  0.200448   
-220             44  Existing      West  0.246604  0.153523   
-227            392  Existing      West  0.230712  0.152834   
-230             21  Proposed     North  0.276925  0.197957   
-236            127  Proposed      West  0.308427  0.199937   
-259            109  Existing  Far West -0.161127  0.139452   
-
-     95 percentile error  quantile difference  
-63             -0.467769             0.197006  
-99             -0.293633             0.120499  
-111             0.231967             0.077200  
-220             0.167602             0.079002  
-227             0.154501             0.076211  
-230             0.192935             0.083991  
-236             0.224718             0.083708  
-259            -0.364292             0.203165  
-(95 quantile - mean) outliers for 4-5(hr) 
-                          Facility.Name     lati     longi  Capacity  \
-40   Callahan Divide Wind Energy Center  32.3106 -100.1490     149.0   
-63                   Desert Sky repower  30.7811 -102.7236       7.2   
-111               Horse13 CallD repower  32.3015  -99.8901      44.0   
-193        Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220          South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                          Sweetwater  32.3681 -100.3330     764.0   
-236                          Tiger Wind  32.3016  -99.8902     300.0   
-259   Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-40              76  Existing      West  0.148116  0.156225   
-63              12  Proposed  Far West -0.422001  0.268860   
-111             27  Proposed      West  0.191291  0.200448   
-193            166  Existing      West  0.136288  0.153239   
-220             44  Existing      West  0.140319  0.153523   
-227            392  Existing      West  0.131106  0.152834   
-236            127  Proposed      West  0.193948  0.199937   
-259            109  Existing  Far West -0.168648  0.139452   
-
-     95 percentile error  quantile difference  
-40              0.092667             0.055450  
-63             -0.642167             0.220165  
-111             0.107132             0.084158  
-193             0.061695             0.074593  
-220             0.067193             0.073126  
-227             0.061761             0.069345  
-236             0.123449             0.070499  
-259            -0.286485             0.117837  
-(95 quantile - mean) outliers for 4-5(hr) 
-                         Facility.Name      lati     longi  Capacity  \
-14                        Barrow Ranch  32.30500 -102.6378     160.0   
-57                            Cirrus 1  33.02720 -101.6960      80.0   
-91                    Grape Creek Wind  31.88850 -100.5299     525.0   
-112                  Impala Flats Wind  33.17680 -101.8161     282.0   
-167                            Notrees  31.94585 -102.8095     197.0   
-205                     Sage Draw Wind  33.17680 -101.8161     338.0   
-225                     Stephens Ranch  32.92165 -101.6670     491.0   
-259  Wind Power Partners '94 Wind Farm  31.35080 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-14              72  Proposed  Far West -0.162042  0.195064   
-57              17  Existing     North -0.076041  0.148205   
-91             215  Proposed      West -0.125368  0.168175   
-112            120  Proposed     North -0.119378  0.204764   
-167             95  Existing  Far West -0.109720  0.148165   
-205            142  Proposed     North -0.117850  0.204138   
-225            210  Existing  Far West -0.064952  0.152309   
-259            109  Existing  Far West -0.079601  0.139452   
-
-     95 percentile error  quantile difference  
-14             -0.130923            -0.031119  
-57             -0.036305            -0.039736  
-91             -0.081961            -0.043407  
-112            -0.079809            -0.039569  
-167            -0.038560            -0.071160  
-205            -0.098162            -0.019688  
-225             0.006162            -0.071114  
-259            -0.017529            -0.062073  
-(95 quantile - mean) outliers for 4-5(hr) 
-          Facility.Name     lati    longi  Capacity  NumberOfUnits     Group  \
-31   Bruenning's Breeze  26.5211 -97.6733     298.0             76  Existing   
-132    Las Majadas Wind  26.4706 -97.6732     272.8            116  Proposed   
-138     Loma Pinta Wind  28.3451 -99.0997     200.0             88  Proposed   
-146        Magic Valley  26.4653 -97.6725     263.0            112  Existing   
-158         Midway Wind  28.0095 -97.5188     162.9             73  Proposed   
-159   Monte Alto 2 Wind  26.4706 -97.6732     236.9            102  Proposed   
-160        Monte Alto I  26.4706 -97.6732     223.8             97  Proposed   
-237    Torrecillas Wind  27.7611 -99.3316     300.5            127  Proposed   
-
-    Region     error       std  95 percentile error  quantile difference  
-31   South  0.096092  0.142663             0.084806             0.011286  
-132  South  0.122767  0.184623             0.122257             0.000509  
-138  South -0.006107  0.142218            -0.017931             0.011825  
-146  South  0.094784  0.141387             0.100769            -0.005985  
-158  South  0.088916  0.164024             0.092332            -0.003416  
-159  South  0.122897  0.184592             0.126366            -0.003469  
-160  South  0.122631  0.187828             0.126905            -0.004274  
-237  South -0.036292  0.158272            -0.087357             0.051065  
+           Facility.Name  quantile difference
+7         Armstrong Wind            -0.287127
+43  Canadian Breaks Wind            -0.259450
+86        Goodnight Wind            -0.285461
 (95 quantile - mean) outliers for 5-6(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-113      Inadale (Roscoe IV) Wind Farm  32.3467 -100.3790     257.0   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                         Sweetwater  32.3681 -100.3330     764.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-63              12  Proposed  Far West -0.307586  0.268860   
-111             27  Proposed      West  0.300521  0.200448   
-113            197  Existing      West  0.234521  0.158561   
-193            166  Existing      West  0.228717  0.153239   
-220             44  Existing      West  0.237968  0.153523   
-227            392  Existing      West  0.221753  0.152834   
-236            127  Proposed      West  0.300165  0.199937   
-259            109  Existing  Far West -0.163470  0.139452   
-
-     95 percentile error  quantile difference  
-63             -0.502993             0.195407  
-111             0.227071             0.073450  
-113             0.165549             0.068972  
-193             0.157986             0.070731  
-220             0.152903             0.085065  
-227             0.146723             0.075031  
-236             0.224372             0.075793  
-259            -0.323968             0.160498  
-(95 quantile - mean) outliers for 5-6(hr) 
-                         Facility.Name     lati     longi  Capacity  \
-62         Delaware Mountain Wind Farm  31.6708 -104.7390      37.0   
-63                  Desert Sky repower  30.7811 -102.7236       7.2   
-111              Horse13 CallD repower  32.3015  -99.8901      44.0   
-193       Pyron (Roscoe III) Wind Farm  32.3542 -100.3440     325.0   
-220         South Trent Mesa Wind Farm  32.4444 -100.2360     132.0   
-227                         Sweetwater  32.3681 -100.3330     764.0   
-236                         Tiger Wind  32.3016  -99.8902     300.0   
-259  Wind Power Partners '94 Wind Farm  31.3508 -104.4430      52.0   
-
-     NumberOfUnits     Group    Region     error       std  \
-62              38  Existing  Far West -0.099390  0.145674   
-63              12  Proposed  Far West -0.417905  0.268860   
-111             27  Proposed      West  0.181255  0.200448   
-193            166  Existing      West  0.120256  0.153239   
-220             44  Existing      West  0.124869  0.153523   
-227            392  Existing      West  0.115874  0.152834   
-236            127  Proposed      West  0.183886  0.199937   
-259            109  Existing  Far West -0.152702  0.139452   
-
-     95 percentile error  quantile difference  
-62             -0.160078             0.060688  
-63             -0.652567             0.234662  
-111             0.097622             0.083633  
-193             0.052846             0.067411  
-220             0.046624             0.078246  
-227             0.048687             0.067187  
-236             0.115406             0.068480  
-259            -0.295988             0.143286  
-(95 quantile - mean) outliers for 5-6(hr) 
-        Facility.Name      lati     longi  Capacity  NumberOfUnits     Group  \
-14       Barrow Ranch  32.30500 -102.6378     160.0             72  Proposed   
-47    Capricorn Ridge  31.84898 -100.9368     920.0            435  Existing   
-57           Cirrus 1  33.02720 -101.6960      80.0             17  Existing   
-91   Grape Creek Wind  31.88850 -100.5299     525.0            215  Proposed   
-167           Notrees  31.94585 -102.8095     197.0             95  Existing   
-198     Red Mud Creek  32.74370 -101.4317     201.0             88  Proposed   
-205    Sage Draw Wind  33.17680 -101.8161     338.0            142  Proposed   
-225    Stephens Ranch  32.92165 -101.6670     491.0            210  Existing   
-
-       Region     error       std  95 percentile error  quantile difference  
-14   Far West -0.141527  0.195064            -0.124496            -0.017032  
-47   Far West -0.083141  0.134520            -0.053303            -0.029839  
-57      North -0.070135  0.148205            -0.043503            -0.026632  
-91       West -0.110189  0.168175            -0.080492            -0.029697  
-167  Far West -0.105946  0.148165            -0.063657            -0.042289  
-198  Far West -0.058047  0.199121            -0.000264            -0.057783  
-205     North -0.105701  0.204138            -0.063447            -0.042254  
-225  Far West -0.060520  0.152309            -0.023250            -0.037269  
-(95 quantile - mean) outliers for 5-6(hr) 
-          Facility.Name     lati    longi  Capacity  NumberOfUnits     Group  \
-31   Bruenning's Breeze  26.5211 -97.6733     298.0             76  Existing   
-52         Chalupa Wind  26.1293 -97.5292     174.0             78  Proposed   
-74        Espiritu Wind  26.1293 -97.5292     148.5             68  Proposed   
-132    Las Majadas Wind  26.4706 -97.6732     272.8            116  Proposed   
-159   Monte Alto 2 Wind  26.4706 -97.6732     236.9            102  Proposed   
-160        Monte Alto I  26.4706 -97.6732     223.8             97  Proposed   
-172   Palmas Altas Wind  26.1293 -97.5292     144.9             66  Proposed   
-237    Torrecillas Wind  27.7611 -99.3316     300.5            127  Proposed   
-
-    Region     error       std  95 percentile error  quantile difference  
-31   South  0.096156  0.142663             0.074842             0.021314  
-52   South  0.066047  0.179122             0.040946             0.025101  
-74   South  0.068335  0.181746             0.051868             0.016467  
-132  South  0.123770  0.184623             0.113752             0.010018  
-159  South  0.124945  0.184592             0.091933             0.033012  
-160  South  0.123642  0.187828             0.109827             0.013816  
-172  South  0.066603  0.179314             0.043990             0.022614  
-237  South -0.023619  0.158272            -0.081748             0.058130  
+     Facility.Name  quantile difference
+7   Armstrong Wind            -0.328135
+86  Goodnight Wind            -0.323880
+(95 quantile - mean) outliers for 6-7(hr) 
+       Facility.Name  quantile difference
+7     Armstrong Wind            -0.306138
+86    Goodnight Wind            -0.320803
+235  Tierra Blanca W            -0.291658
+(95 quantile - mean) outliers for 7-8(hr) 
+Empty DataFrame
+Columns: [Facility.Name, quantile difference]
+Index: []
+(95 quantile - mean) outliers for 8-9(hr) 
+Empty DataFrame
+Columns: [Facility.Name, quantile difference]
+Index: []
+(95 quantile - mean) outliers for 9-10(hr) 
+Empty DataFrame
+Columns: [Facility.Name, quantile difference]
+Index: []
+(95 quantile - mean) outliers for 10-11(hr) 
+Empty DataFrame
+Columns: [Facility.Name, quantile difference]
+Index: []
+(95 quantile - mean) outliers for 11-12(hr) 
+Empty DataFrame
+Columns: [Facility.Name, quantile difference]
+Index: []
+(95 quantile - mean) outliers for 12-13(hr) 
+            Facility.Name  quantile difference
+20  Black Jack Creek Wind            -0.272746
+63     Desert Sky repower             0.209047
+91       Grape Creek Wind            -0.291010
+(95 quantile - mean) outliers for 13-14(hr) 
+                         Facility.Name  quantile difference
+91                    Grape Creek Wind            -0.303359
+259  Wind Power Partners '94 Wind Farm             0.154255
+(95 quantile - mean) outliers for 14-15(hr) 
+                         Facility.Name  quantile difference
+91                    Grape Creek Wind            -0.275293
+259  Wind Power Partners '94 Wind Farm             0.095639
+(95 quantile - mean) outliers for 15-16(hr) 
+Empty DataFrame
+Columns: [Facility.Name, quantile difference]
+Index: []
+(95 quantile - mean) outliers for 16-17(hr) 
+     Facility.Name  quantile difference
+54  Changing Winds            -0.257419
+73         ERAWIND            -0.270697
+(95 quantile - mean) outliers for 17-18(hr) 
+            Facility.Name  quantile difference
+7          Armstrong Wind            -0.249971
+14           Barrow Ranch            -0.017032
+33    Buenos Aires 1 Wind            -0.227570
+43   Canadian Breaks Wind            -0.237443
+60            Cranel Wind            -0.245404
+73                ERAWIND            -0.285659
+86         Goodnight Wind            -0.235200
+99        Gusty Hill Wind            -0.346581
+106       Hidalgo II Wind            -0.227926
+147           Magnet Wind            -0.265887
+161           Monte Bueno            -0.235307
+162      Monte Cristo 1 W            -0.232845
+163   Monte Cristo 2 Wind            -0.230874
+187           Pierce Wind            -0.256059
+215         Shanghai Wind            -0.253445
+250  West Texas Windplant            -0.241741
+(95 quantile - mean) outliers for 18-19(hr) 
+                         Facility.Name  quantile difference
+48                    Cattleman Wind A            -0.225285
+49                    Cattleman Wind B            -0.227946
+60                         Cranel Wind            -0.237192
+73                             ERAWIND            -0.276738
+99                     Gusty Hill Wind            -0.368089
+103                          Hart Wind            -0.229721
+147                        Magnet Wind            -0.245118
+250               West Texas Windplant            -0.260855
+259  Wind Power Partners '94 Wind Farm            -0.234986
+(95 quantile - mean) outliers for 19-20(hr) 
+                         Facility.Name  quantile difference
+43                Canadian Breaks Wind            -0.213451
+48                    Cattleman Wind A            -0.250957
+49                    Cattleman Wind B            -0.240437
+54                      Changing Winds            -0.245714
+62         Delaware Mountain Wind Farm            -0.210747
+67                         Easter Wind            -0.228823
+73                             ERAWIND            -0.255191
+99                     Gusty Hill Wind            -0.367084
+103                          Hart Wind            -0.263848
+137                      Loma Pinta II             0.020109
+191                  Pumpkin Farm Wind            -0.220328
+237                   Torrecillas Wind             0.033872
+250               West Texas Windplant            -0.249864
+259  Wind Power Partners '94 Wind Farm            -0.259588
+(95 quantile - mean) outliers for 20-21(hr) 
+                         Facility.Name  quantile difference
+48                    Cattleman Wind A            -0.260699
+49                    Cattleman Wind B            -0.264258
+54                      Changing Winds            -0.260601
+67                         Easter Wind            -0.253242
+99                     Gusty Hill Wind            -0.363903
+103                          Hart Wind            -0.264205
+191                  Pumpkin Farm Wind            -0.231191
+237                   Torrecillas Wind             0.059108
+259  Wind Power Partners '94 Wind Farm            -0.244509
+(95 quantile - mean) outliers for 21-22(hr) 
+       Facility.Name  quantile difference
+48  Cattleman Wind A            -0.242107
+54    Changing Winds            -0.241999
+99   Gusty Hill Wind            -0.338884
+(95 quantile - mean) outliers for 22-23(hr) 
+         Facility.Name  quantile difference
+14        Barrow Ranch            -0.240618
+87   Gopher Creek Wind            -0.229036
+99     Gusty Hill Wind            -0.293220
+112  Impala Flats Wind            -0.223964
+198      Red Mud Creek            -0.237101
+205     Sage Draw Wind            -0.229678
+(95 quantile - mean) outliers for 23-24(hr) 
+                              Facility.Name  quantile difference
+4    Appaloosa Run Renewable Energy Project            -0.222323
+14                             Barrow Ranch            -0.258332
+87                        Gopher Creek Wind            -0.248552
+99                          Gusty Hill Wind            -0.259868
+198                           Red Mud Creek            -0.249211
