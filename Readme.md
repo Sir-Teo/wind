@@ -115,7 +115,7 @@
 
 ### Conclusion for these bump charts
 
-- In general, across all regions, kendall's $\tau$ is lower is the afternoon
+- In general, across all regions, kendall's <!-- $\tau$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ctau"> is lower is the afternoon
 - North Central Farms and West Farms have the highest average kendall's tau, while the South Farms have the lowest average kendall's tau.
 
 ## 95 percentile - mean (bias)
@@ -128,7 +128,7 @@
 
 ![capacity vs unnormalized std](./plots/capacity_vs_unnormstd.png)
 
-- there is a strong correlation ($r^2 = 0.897$) between capacity and unormalized std.
+- there is a strong correlation (<!-- $r^2 = 0.897$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=r%5E2%20%3D%200.897">) between capacity and unormalized std.
 - Wind Farms at the south tend to have low unnormalized std/capacity ratio
 
 ![capacity vs unnormalized std by region](./plots/capacity_vs_unnormstd_by_region.png)
@@ -144,16 +144,18 @@
 
 ![capacity vs unnormalized error](./plots/capacity_vs_unnormerror.png)
 
-- the correlation is small ($r^2 = 0.1294979748653919$) so they are not quite correlated in general
+- the correlation is small (<!-- $r^2 = 0.1294979748653919$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=r%5E2%20%3D%200.1294979748653919">) so they are not quite correlated in general
 - the south has higher correlation
 
 ## Outliers
 
 Using "Tukey's fences," we define the outliers to be any oberservation outside the range
 
-$$
+<!-- $$
 \left[Q_{1}-k\left(Q_{3}-Q_{1}\right), Q_{3}+k\left(Q_{3}-Q_{1}\right)\right]
-$$
+$$ --> 
+
+<div align="center"><img style="background: white;" src="https://render.githubusercontent.com/render/math?math=%5Cleft%5BQ_%7B1%7D-k%5Cleft(Q_%7B3%7D-Q_%7B1%7D%5Cright)%2C%20Q_%7B3%7D%2Bk%5Cleft(Q_%7B3%7D-Q_%7B1%7D%5Cright)%5Cright%5D"></div>
 
 Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 across all the analysis
 
@@ -166,3 +168,4 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 
 quantile vs std bumpchart
 LOESS/cutting/spline
+plots for all kendall's tau
