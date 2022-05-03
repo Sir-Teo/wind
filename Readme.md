@@ -131,6 +131,15 @@
 - there is a strong correlation ($r^2 = 0.897$) between capacity and unormalized std.
 - Wind Farms at the south tend to have low unnormalized std/capacity ratio
 
+![capacity vs unnormalized std by region](./plots/capacity_vs_unnormstd_by_region.png)
+
+- the correlation coefficient for North Central is 0.9349458943175288
+- the correlation coefficient for North is 0.9425002375847092
+- the correlation coefficient for West is 0.9502674365455899
+- the correlation coefficient for Far West is 0.9477938088833047
+- the correlation coefficient for South is 0.8853149787430542
+- the correlation coefficient for South Central is 0.9951808329420279 (**very linear**)
+
 ## capacity vs unnormalized error
 
 ![capacity vs unnormalized error](./plots/capacity_vs_unnormerror.png)
@@ -156,5 +165,4 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 
 
 quantile vs std bumpchart
-outlier 
 LOESS/cutting/spline
