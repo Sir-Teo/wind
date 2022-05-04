@@ -91,6 +91,15 @@
 - the correlation is small (<!-- $r^2 = 0.1294979748653919$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=r%5E2%20%3D%200.1294979748653919">) so they are not quite correlated in general
 - the south has higher correlation
 
+![capacity vs unnormalized error by region](./plots/capacity_vs_unnormerror_by_region.png)
+
+- the correlation coefficient for North Central is 0.7747808370036084
+- the correlation coefficient for North is 0.0005175873342643005
+- the correlation coefficient for West is 0.6142004020550921
+- the correlation coefficient for Far West is 0.07272325563154991
+- the correlation coefficient for South is 0.526982981239405
+- the correlation coefficient for South Central is 0.9999375913105677
+
 ## Outliers
 
 Using "Tukey's fences," we define the outliers to be any oberservation outside the range
@@ -114,5 +123,3 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 - quantile vs std bumpchart
 
 - LOESS/cutting/spline
-
-- plots for all kendall's tau
