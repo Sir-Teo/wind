@@ -122,4 +122,4 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 
 - quantile vs std bumpchart
 
-- LOESS/cutting/spline
+- cutting/spline
