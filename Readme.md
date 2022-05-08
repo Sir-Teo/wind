@@ -102,6 +102,10 @@
 
 ![capacity vs unormalised std spline](./plots/capacity_vs_unnormstd_bspline.png)
 
+### Piecewise
+
+![capacity vs unormalised std piecewise](./plots/capacity_vs_unnormstd_piecewise.png)
+
 ## capacity vs unnormalized error
 
 ### Linear Regression
