@@ -51,7 +51,7 @@
 |0.842 |0.871 |0.879 |0.910 |0.918 |0.918 |0.928 |0.918 |0.916 |0.916 |0.894 |0.891 |0.878 |0.833 |0.808 |<font color='red'>0.825</font> |0.832 |0.853 |0.863 |0.881 |0.865 |0.846 |0.883 |
 
 - low std farms tend to stay low, high std farms tend to stay high
-- Kendall's $\tau$ is higher in the morning
+- Kendall's <!-- $\tau$ --> <img style="transform: translateY(0.1em); background: white;" src="https://render.githubusercontent.com/render/math?math=%5Ctau"> is higher in the morning
 
 #### kendall's coefficient for each region
 
@@ -68,7 +68,15 @@
 
 - larger in the afternoon until midnight
 
+### Bump Charts 0-24hr
+
+![95 percentile - mean (bias) at 24 Hours interval bump](./plots/bumpchart_quantile_0-24.png)
+
+- low ones go high and high ones go low
+
 ## capacity vs unnormalized std
+
+### Linear Regression
 
 ![capacity vs unnormalized std](./plots/capacity_vs_unnormstd.png)
 
@@ -84,7 +92,19 @@
 - the correlation coefficient for South is 0.8853149787430542
 - the correlation coefficient for South Central is 0.9951808329420279 (**very linear**)
 
+### LOWESS
+
+![capacity vs unnormalised std lowess](./plots/capacity_vs_unnormstd_lowess.png)
+
+![capacity vs unnormalised std lowess by region](./plots/capacity_vs_unnormstd_lowess_byregion.png)
+
+### Spline
+
+![capacity vs unormalised std spline](./plots/capacity_vs_unnormstd_bspline.png)
+
 ## capacity vs unnormalized error
+
+### Linear Regression
 
 ![capacity vs unnormalized error](./plots/capacity_vs_unnormerror.png)
 
@@ -100,9 +120,17 @@
 - the correlation coefficient for South is 0.526982981239405
 - the correlation coefficient for South Central is 0.9999375913105677
 
+### LOWESS
+
+![capacity vs unnormerror lowerss](./plots/capacity_vs_unnormerror_lowess_byregion.png)
+
+### Spline
+
+![capacity vs unnormerror spline](./plots/capacity_vs_unnormerror_bspline.png)
+
 ## Outliers
 
-Using "Tukey's fences," we define the outliers to be any oberservation outside the range
+let outliers to be any oberservation outside the range
 
 <!-- $$
 \left[Q_{1}-k\left(Q_{3}-Q_{1}\right), Q_{3}+k\left(Q_{3}-Q_{1}\right)\right]
@@ -122,4 +150,4 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 
 - quantile vs std bumpchart
 
-- cutting/spline
+- cutting
