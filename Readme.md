@@ -102,6 +102,10 @@
 
 ![capacity vs unormalised std spline](./plots/capacity_vs_unnormstd_bspline.png)
 
+### Polynomials
+
+![capacity vs unormalised std polynomial](./plots/capacity_vs_unnormstd_polyfit.png)
+
 ### Piecewise
 
 ![capacity vs unormalised std piecewise](./plots/capacity_vs_unnormstd_piecewise.png)
@@ -126,7 +130,9 @@
 
 ### LOWESS
 
-![capacity vs unnormerror lowerss](./plots/capacity_vs_unnormerror_lowess_byregion.png)
+！[capacity vs unnorm error lowess](./plots/capacity_vs_unnormerror_lowess.png)
+
+![capacity vs unnormerror lowess by region](./plots/capacity_vs_unnormerror_lowess_byregion.png)
 
 ### Spline
 
@@ -146,12 +152,10 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 
 ### [outliers of bias](./bias_outliers.txt)
 
+- mostly negative bias
+
 ### [outliers of std of bias](./std_outliers.txt)
 
 ### [outliers of quantile difference](./quantile_outliers.txt)
 
 ## Things to Do
-
-- quantile vs std bumpchart
-
-- cutting
