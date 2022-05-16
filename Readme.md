@@ -150,12 +150,12 @@ $$ -->
 
 Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 across all the analysis
 
-### [outliers of bias](./bias_outliers.txt)
+### [outliers of bias](./bias_outliers.csv)
 
 - mostly negative bias
 
-### [outliers of std of bias](./std_outliers.txt)
+### [outliers of std of bias](./std_outliers.csv)
 
-### [outliers of quantile difference](./quantile_outliers.txt)
+### [outliers of quantile difference](./quantile_outliers.csv)
 
 ## Things to Do
