@@ -19,7 +19,6 @@ i & \text{assets indices}\\
 r^2 & \text{corelation coefficient}\\
 \sigma & standard deviation
 \end{array}
-
 $$
 
 - Days are indexed by $d = 1,2,...,365$, and hours are indexed by $h = 1,2,...,24$
@@ -62,9 +61,19 @@ and $\beta$ is also a vector of length $J$. Plotting $\beta$ on the map of Texas
 
 ![Bias at 24 Hours interval](./plots/bias_24hr_with_area.png)
 
-As observed from the scatter plot, the bias, across all hours and all year, is relatively higher for Southern and central wind farms and is lower for Northern and Western windfamrs. 
+As observed from the scatter plot, the bias, across all hours and all year, is relatively higher for Southern and central wind farms and is lower for Northern and Western windfarms. 
 
-## Stardard Deviation
+## Stardard Deviation of Bias
 
+###### 
 
+We are also interested in the standard deviation of the Bias. Let
+$$
+\sigma_{h}^{\beta}=\sqrt{\frac{\sum_{d = 1}^{365}\left(\beta_{d,h}-\bar{\beta_h}\right)^{2}}{365}}
+$$
+where $\bar{\beta_h} = \frac{1}{365}\sum_{d = 1}^{365} \beta_{d,h}$ is the mean of the bias at a given hour across all year. For each $h \in [1,24]$, we plot out $\sigma_h^{\beta}$ in a violin plot and a box plot.
+
+![Violin plot of std of bias at each hour](./plots/violin_and_box_std_of_bias_1hr.png)
+
+It was found that, from the above violin/box plot, 
 
