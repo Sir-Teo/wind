@@ -159,3 +159,6 @@ Where Q1,Q3 are the quantile, k is some non-negative constant. We use k = 2 acro
 ### [outliers of quantile difference](./quantile_outliers.csv)
 
 ## Things to Do
+quantile on the report
+x axis sigma, y-axis quantile
+solar.

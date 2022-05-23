@@ -102,7 +102,7 @@ S = \{ S_1, S_2, S_3, S_4, S_5,S_6\}
 $$
 Where $S_i, i \in \{1,2,3,4,5,6\}$ is the set of assets in a particular region. And let
 $$
-\tau_i^{h+1}=\frac{2}{|S_i|(|S_i|-1)} \sum_{m<n} \operatorname{sgn}\left(\sigma_{m}^{i,h}-\sigma_{n}^{i,h}\right) \operatorname{sgn}\left(\sigma_{m}^{i,h+1}-\sigma_{n}^{i,h+1}\right)
+\tau_i^{h+1}=\frac{2}{|S_i|(|S_i|-1)} \sum_{m<n, m,n \in S_i} \operatorname{sgn}\left(\sigma_{m}^{h}-\sigma_{n}^{h}\right) \operatorname{sgn}\left(\sigma_{m}^{h+1}-\sigma_{n}^{h+1}\right)
 $$
 So $\tau_i^{h+1}$ is the kendall correlation coefficient for asset $S_i$ during hour interval $[h,h+1]$. Then for $h \in [1,23]$ and for$  i \in \{ 1,2,3,4,5,6\}$  we plot out the kendall correlation for each region across 23 hour intervals,
 
