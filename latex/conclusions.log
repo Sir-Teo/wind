@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.12)  23 MAY 2022 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.2.12)  25 MAY 2022 11:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -573,26 +573,30 @@ With luck, this will get me unwedged. But if you
 really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
-</Users/teo/Desktop/wind/plots/sigma_vs_quantile.png, id=115, 794.97pt x 578.16pt>
+[11]
+
+LaTeX Warning: Command \textasciitilde invalid in math mode on input line 463.
+
+</Users/teo/Desktop/wind/plots/sigma_vs_quantile.png, id=125, 794.97pt x 578.16pt>
 File: /Users/teo/Desktop/wind/plots/sigma_vs_quantile.png Graphic file (type png)
 <use /Users/teo/Desktop/wind/plots/sigma_vs_quantile.png>
-Package pdftex.def Info: /Users/teo/Desktop/wind/plots/sigma_vs_quantile.png  used on input line 464.
+Package pdftex.def Info: /Users/teo/Desktop/wind/plots/sigma_vs_quantile.png  used on input line 470.
 (pdftex.def)             Requested size: 345.00856pt x 250.91531pt.
-[11] [12 </Users/teo/Desktop/wind/plots/sigma_vs_quantile.png>] (/Users/teo/Desktop/wind/latex/conclusions.aux)
+[12 </Users/teo/Desktop/wind/plots/sigma_vs_quantile.png>] (/Users/teo/Desktop/wind/latex/conclusions.aux)
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
  12101 strings out of 478994
- 182410 string characters out of 5858184
+ 182412 string characters out of 5858184
  515763 words of memory out of 5000000
  29207 multiletter control sequences out of 15000+600000
- 453590 words of font info for 112 fonts, out of 8000000 for 9000
+ 453601 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  85i,15n,88p,659b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-mathex.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}{/usr/local/texlive/2021/texmf-dist/fonts/enc/dvips/lm/lm-ts1.enc}</usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx12.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmbx7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmex10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi5.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmmi7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy10.pfb></usr/local/texlive/2021/texmf-dist/fonts/type1/public/lm/lmsy7.pfb>
-Output written on /Users/teo/Desktop/wind/latex/conclusions.pdf (12 pages, 760516 bytes).
+Output written on /Users/teo/Desktop/wind/latex/conclusions.pdf (12 pages, 770376 bytes).
 PDF statistics:
  248 PDF objects out of 1000 (max. 8388607)
  202 compressed objects within 3 object streams

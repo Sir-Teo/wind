@@ -281,7 +281,7 @@ following
 Interval}
 \end{figure}
 
-As shown on the above quantile plot, we see that there is no apparent
+As shown on the plot below, we see that there is no apparent
 spatial relationship across assets on quantile. Some assets at the
 Southwest boarder of texas tend to have lower quantile.
 
@@ -338,7 +338,7 @@ axis, we calculate the corelation coefficient \(r^2\)
 where \(\bar{\sigma} = \frac{1}{J} \sum_{i = 0}^J \sigma_i\) and
 \(\bar{C} = \frac{1}{J} \sum_{i = 0}^J C_i\)
 
-It was calculated that \(r^2 = 0.897\) indicating a relatively strong
+It was calculated that \(r^2 = 0.897\), indicating a relatively strong
 linear relationship. However, from the scatter plot we can see that the
 linear relationship is strong for \(C < 450\) . It was also observed
 that for \(C>450\) There is a clearly non linear pattern. Besdies, the
@@ -436,33 +436,42 @@ assets for quantile.
 &\text { Quantile Outliers }\\
 &\begin{array}{|l|r|}
 \hline \text{ Asset} & n_\mathbf{q} \\
-\hline \text { Gusty Hill Wind } & 17 \\
-\hline \text { Anacacho Wind Farm } & 14 \\
-\hline \text { Wind Power Partners '94 Wind Farm } & 14 \\
+\hline \text { Wind Power Partners '94 Wind Farm } & 15 \\
 \hline \text { Delaware Mountain Wind Farm } & 13 \\
-\hline \text { Desert Sky repower } & 13 \\
-\hline \text { Loma Pinta II } & 12 \\
-\hline \text { Loma Pinta Wind } & 12 \\
-\hline \text { West Texas Windplant } & 11 \\
-\hline \text { Canadian Breaks Wind } & 8 \\
+\hline \text { Anacacho Wind Farm } & 10 \\
+\hline \text { Cameron } & 10 \\
+\hline \text { San Roman } & 9 \\
+\hline \text { Gusty Hill Wind } & 9 \\
+\hline \text { Penascal II } & 6 \\
+\hline \text { Bruenning's Breeze } & 5 \\
+\hline \text { Magic Valley } & 5 \\
 \hline
 \end{array}
 \end{aligned}
 
-For the above tables, we see that \textbf{Desert Sky repower} has large
-bias and quantile, but not standard deviation. The assets on the bias
-and quantile tend to align, but large quantile or bias does not mean
-they have large standard deviation.
+
+For the above tables, we see that \textbf{Wind Power Partners ’94 Wind Farm} has leading outlier occurence in bias and quantile, but not standard deviation. \textbf{Desert Sky} is most outlier occurences in bias but not in quantile. The assets on the bias
+and quantile outliers tend to align, but an asset is outlier in quantile or bias does not mean that 
+it is a outlier in standard deviation.
 
 \hypertarget{Standard Deviation vs. Quantile}{%
 \subsection{Standard Deviation vs. Quantile}\label{Standard Deviation vs. Quantile}}
 
-For each assets, we made a scatter plot of its standard deviation and quantile
+We are interested in the relationship between standard deviation and the quantile. If each assets are independent and identically distributed the ratio of quantile to standard deviation should be constant, that is 
+
+$$
+\frac{\mathbf{q}}{\sigma}  \textasciitilde 2
+$$
+
+Now we plot a scatter plot for all the assets, with the standard deviation on the x-axis and the quantile on the y-axis.
 
 \begin{figure}
   \centering
   \includegraphics{/Users/teo/Desktop/wind/plots/sigma_vs_quantile.png}
   \caption{Standard Deviation vs. Quantile}
   \end{figure}
+
+  As shown on the above figure, a clear linear relationship is observed with $r^2 = 1.85$. And we found out that the slop of the fitted line is 1.85, which is close to the value of 2.
+
 
 \end{document}

@@ -1,12 +1,12 @@
 # Fdb version 3
-["pdflatex"] 1653356885 "/Users/teo/Desktop/wind/latex/conclusions.tex" "/Users/teo/Desktop/wind/latex/conclusions.pdf" "conclusions" 1653356885
-  "/Users/teo/Desktop/wind/latex/conclusions.aux" 1653356885 8 a94a2480d3289e625eea47cd1b285758 ""
-  "/Users/teo/Desktop/wind/latex/conclusions.tex" 1653356883 16726 a9a0da907142c41b7d47092718509650 ""
+["pdflatex"] 1653502502 "/Users/teo/Desktop/wind/latex/conclusions.tex" "/Users/teo/Desktop/wind/latex/conclusions.pdf" "conclusions" 1653502502
+  "/Users/teo/Desktop/wind/latex/conclusions.aux" 1653502502 8 a94a2480d3289e625eea47cd1b285758 ""
+  "/Users/teo/Desktop/wind/latex/conclusions.tex" 1653502499 17333 19d185cf2ac1a297a386fe438a07bce2 ""
   "/Users/teo/Desktop/wind/plots/bias_24hr_with_area.png" 1651449331 67036 b9f6ebf149c4abfdd84b106d761a7b0f ""
   "/Users/teo/Desktop/wind/plots/capacity_vs_unnormstd_lowess.png" 1653349881 35255 999992cfe07e74ae3305bf43bddba228 ""
   "/Users/teo/Desktop/wind/plots/kendall.png" 1651650273 95611 3f59b7ea3540ec1e31ca833c7a799114 ""
-  "/Users/teo/Desktop/wind/plots/quantile_24hr_with_area.png" 1653326731 68133 adcdc88f37285551038c9ff23916eb30 ""
-  "/Users/teo/Desktop/wind/plots/sigma_vs_quantile.png" 1653302809 22667 56b251b1a8867f3d2686c3959eaa6079 ""
+  "/Users/teo/Desktop/wind/plots/quantile_24hr_with_area.png" 1653501119 67120 cb7e1518a1fe7f4123cb43631f2b24dd ""
+  "/Users/teo/Desktop/wind/plots/sigma_vs_quantile.png" 1653501314 36575 bc91c2c29cc4f3709646ad92f3fcebe1 ""
   "/Users/teo/Desktop/wind/plots/std_of_bias_24hr.png" 1653352246 67353 c6771f1c1343954c7c4461f0a0884717 ""
   "/Users/teo/Desktop/wind/plots/violin_and_box_bias_1hr.png" 1653352652 102635 f12b1016ad590fa3fc940c0dbf010e09 ""
   "/Users/teo/Desktop/wind/plots/violin_and_box_quantile_1hr.png" 1653354077 105515 20b75829b8b662d1ccae333f27602a7e ""
@@ -135,10 +135,10 @@
   "/usr/local/texlive/2021/texmf-var/web2c/pdftex/pdflatex.fmt" 1644689819 2724739 6a6b66c90466297bb7f712cf000ab962 ""
   "/usr/local/texlive/2021/texmf.cnf" 1616695596 577 4c1911a7228e554c6032256d3cf5567d ""
   "conclusions.aux" 0 -1 0 "pdflatex"
-  "conclusions.tex" 1653356883 16726 a9a0da907142c41b7d47092718509650 ""
+  "conclusions.tex" 1653502499 17333 19d185cf2ac1a297a386fe438a07bce2 ""
   (generated)
-  "conclusions.pdf"
-  "/Users/teo/Desktop/wind/latex/conclusions.log"
   "conclusions.aux"
-  "/Users/teo/Desktop/wind/latex/conclusions.pdf"
   "conclusions.log"
+  "conclusions.pdf"
+  "/Users/teo/Desktop/wind/latex/conclusions.pdf"
+  "/Users/teo/Desktop/wind/latex/conclusions.log"
